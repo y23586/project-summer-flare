@@ -1,0 +1,793 @@
+{
+  "dbsb_announce": [
+    {
+      "speaker": "announce",
+      "ja-JP": "ご来場の皆様にお知らせ致します。",
+      "en-US": "Attention, all visitors.",
+      "ko-KR": "방문객 여러분께 안내 말씀드립니다.",
+      "zh-CN": "各位来宾请注意。",
+      "zh-TW": "各位來賓請注意。",
+      "ru-RU": "Внимание всем посетителям.",
+      "es-ES": "Atención, visitantes.",
+      "pt-BR": "Atenção, visitantes.",
+      "de-DE": "Eine Durchsage an alle Besucher.",
+      "fr-FR": "Avis à tous les visiteurs."
+    },
+    {
+      "speaker": "announce",
+      "ja-JP": "ただいまNLI係数の上昇にともない緊急避難警報が発令されました。",
+      "en-US": "An emergency evacuation alert has been issued due to a rise in the NL-Index.",
+      "ko-KR": "현재 NLI 계수 상승에 따라 긴급 대피 경보가 발령되었습니다.",
+      "zh-CN": "目前由于NLI系数上升，现已发布紧急疏散警报。",
+      "zh-TW": "目前由於NLI係數上升，現已發布緊急疏散警報。",
+      "ru-RU": "Из-за роста коэффициента NLI объявлена экстренная эвакуация.",
+      "es-ES": "Debido al aumento del coeficiente NLI, se ha emitido una alerta de evacuación de emergencia.",
+      "pt-BR": "Devido ao aumento do coeficiente NLI, foi emitido um alerta de evacuação de emergência.",
+      "de-DE": "Aufgrund des steigenden NLI-Koeffizienten wurde ein Notevakuierungsalarm ausgelöst.",
+      "fr-FR": "En raison de la hausse du coefficient NLI, une alerte d'évacuation d'urgence a été déclenchée."
+    },
+    {
+      "speaker": "announce",
+      "ja-JP": "サテライトの指示に従い、速やかに最寄りの避難所まで避難してください。",
+      "en-US": "Please follow your Satellite's directions to evacuate to the nearest shelter immediately.",
+      "ko-KR": "위성의 지시에 따라 신속히 가장 가까운 대피소로 대피해 주십시오.",
+      "zh-CN": "请遵循卫星的指示，迅速前往最近的避难所。",
+      "zh-TW": "請遵循衛星的指示，迅速前往最近的避難所。",
+      "ru-RU": "Следуйте указаниям Спутника и немедленно направляйтесь в ближайшее убежище.",
+      "es-ES": "Sigan las instrucciones de Satélite y evacuen inmediatamente al refugio más cercano.",
+      "pt-BR": "Sigam as instruções do Satélite e evacuem imediatamente para o abrigo mais próximo.",
+      "de-DE": "Folgen Sie den Anweisungen von Satellit und begeben Sie sich sofort zum nächsten Schutzraum.",
+      "fr-FR": "Suivez les instructions de Satellite et gagnez immédiatement l'abri le plus proche."
+    }
+  ],
+  "dbsb_hello": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "こんにちは？",
+      "en-US": "Hello?",
+      "ko-KR": "안녕하세요?",
+      "zh-CN": "你好？",
+      "zh-TW": "你好？",
+      "ru-RU": "Здравствуйте?",
+      "es-ES": "¿Hola?",
+      "pt-BR": "Olá?",
+      "de-DE": "Hallo?",
+      "fr-FR": "Bonjour ?"
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "私の声が聞こえますか？",
+      "en-US": "Can you hear me?",
+      "ko-KR": "제 목소리가 들리나요?",
+      "zh-CN": "能听到我的声音吗？",
+      "zh-TW": "聽得到我的聲音嗎？",
+      "ru-RU": "Вы меня слышите?",
+      "es-ES": "¿Puedes oírme?",
+      "pt-BR": "Você consegue me ouvir?",
+      "de-DE": "Kannst du mich hören?",
+      "fr-FR": "Vous m'entendez ?"
+    }
+  ],
+  "dbsb_hand": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "聞こえていたらしばらく手を上げていてください。",
+      "en-US": "If you can hear me, please keep your hand raised for a moment.",
+      "ko-KR": "들린다면 잠시 손을 들어 주세요.",
+      "zh-CN": "如果听得到，请举一会儿手。",
+      "zh-TW": "如果聽得到，請舉一會兒手。",
+      "ru-RU": "Если слышите, подержите руку поднятой.",
+      "es-ES": "Si me oyes, mantén la mano levantada un momento.",
+      "pt-BR": "Se consegue, mantenha a mão levantada por um instante.",
+      "de-DE": "Wenn du mich hörst, halte deine Hand eine Weile hoch.",
+      "fr-FR": "Si vous m'entendez, gardez la main levée un moment."
+    }
+  ],
+  "dbsb_hand_desktop": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "聞こえていたらしばらく手を上げていてください。",
+      "en-US": "If you can hear me, please keep your hand raised for a moment.",
+      "ko-KR": "들린다면 잠시 손을 들어 주세요.",
+      "zh-CN": "如果听得到，请举一会儿手。",
+      "zh-TW": "如果聽得到，請舉一會兒手。",
+      "ru-RU": "Если слышите, подержите руку поднятой.",
+      "es-ES": "Si me oyes, mantén la mano levantada un momento.",
+      "pt-BR": "Se consegue, mantenha a mão levantada por um instante.",
+      "de-DE": "Wenn du mich hörst, halte deine Hand eine Weile hoch.",
+      "fr-FR": "Si vous m'entendez, gardez la main levée un moment."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "全員がデスクトップモードの場合は、まあ、しばらく待っていてください。",
+      "en-US": "If everyone is in Desktop mode, well... just wait a moment.",
+      "ko-KR": "모두 데스크톱 모드라면, 뭐, 잠시 기다려 주세요.",
+      "zh-CN": "如果所有人都是桌面模式，那就……请稍等一会儿。",
+      "zh-TW": "如果所有人都是桌面模式，那就……請稍等一下。",
+      "ru-RU": "Если все в настольном режиме… просто немного подождите.",
+      "es-ES": "Si todos estáis en modo escritorio… bueno, esperad un momento.",
+      "pt-BR": "Se todos estiverem no modo Desktop… bem, esperem um pouco.",
+      "de-DE": "Falls alle im Desktop-Modus sind … nun, wartet einfach kurz.",
+      "fr-FR": "Si tout le monde est en mode Bureau… eh bien, attendez un peu."
+    }
+  ],
+  "dbsb_hand_ok": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "OK、どうもありがとう。",
+      "en-US": "OK, thanks.",
+      "ko-KR": "OK, 고마워요.",
+      "zh-CN": "OK，非常感谢。",
+      "zh-TW": "OK，非常感謝。",
+      "ru-RU": "OK, спасибо.",
+      "es-ES": "OK, gracias.",
+      "pt-BR": "OK, agradeço.",
+      "de-DE": "OK, danke.",
+      "fr-FR": "OK, merci."
+    }
+  ],
+  "dbsb_hand_both": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "両手を上げる必要はないのですが。でも、ありがとう。",
+      "en-US": "You don't have to raise both hands, but thanks.",
+      "ko-KR": "두 손을 다 들 필요는 없는데요. 그래도 고마워요.",
+      "zh-CN": "不用把两只手都举起来。不过，还是谢谢你。",
+      "zh-TW": "不用把兩隻手都舉起來。不過，還是謝謝你。",
+      "ru-RU": "Поднимать обе руки не обязательно. Но спасибо.",
+      "es-ES": "No hace falta levantar las dos manos. Pero gracias.",
+      "pt-BR": "Não precisa levantar as duas mãos. Mas agradeço.",
+      "de-DE": "Du musst nicht beide Hände heben. Aber danke.",
+      "fr-FR": "Pas besoin de lever les deux mains. Mais merci."
+    }
+  ],
+  "dbsb_hand_foot": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "知っていますか、それは足です。別にいいですけど。",
+      "en-US": "You do know that's your foot, right? Not that I mind.",
+      "ko-KR": "알고 있나요? 그건 발이에요. 뭐, 상관없지만요.",
+      "zh-CN": "你知道吗，那是脚。不过也没关系。",
+      "zh-TW": "你知道嗎，那是腳。不過也沒關係。",
+      "ru-RU": "Знаете, это нога. Хотя мне всё равно.",
+      "es-ES": "Sabes, eso es un pie. Aunque no importa.",
+      "pt-BR": "Sabe, isso é um pé. Mas tanto faz.",
+      "de-DE": "Du weißt schon, das ist ein Fuß. Aber mir ist es egal.",
+      "fr-FR": "Vous savez, ça, c'est un pied. Mais peu importe."
+    }
+  ],
+  "dbsb_hand_ignore": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "OK、あなたは何らかの事情で手をあげられないか、もしくは単に無視しているのでしょう。",
+      "en-US": "OK, either you can't raise your hand for some reason, or you're simply ignoring me.",
+      "ko-KR": "OK, 어떤 사정으로 손을 들 수 없거나, 아니면 그냥 저를 무시하는 거겠죠.",
+      "zh-CN": "OK，我想你要么因为某些原因无法举手，要么只是在无视我。",
+      "zh-TW": "OK，我想你要不是因為某些原因無法舉手，就是單純在無視我。",
+      "ru-RU": "OK, полагаю, вы либо не можете поднять руку, либо просто меня игнорируете.",
+      "es-ES": "OK, supongo que no puedes levantar la mano por algún motivo o que simplemente me ignoras.",
+      "pt-BR": "OK, suponho que você não possa levantar a mão por algum motivo ou esteja apenas me ignorando.",
+      "de-DE": "OK, ich nehme an, du kannst deine Hand aus irgendeinem Grund nicht heben oder ignorierst mich einfach.",
+      "fr-FR": "OK, je suppose que vous ne pouvez pas lever la main pour une raison quelconque, ou que vous m'ignorez simplement."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "デスクトップモードで、うまく手があげられないのかも。",
+      "en-US": "Maybe you're in Desktop mode and can't raise your hand properly.",
+      "ko-KR": "데스크톱 모드라서 손을 제대로 들 수 없는 걸지도요.",
+      "zh-CN": "也许你正使用桌面模式，所以没法顺利举手。",
+      "zh-TW": "也許你正使用桌面模式，所以沒辦法順利舉手。",
+      "ru-RU": "Возможно, в настольном режиме вам трудно поднять руку.",
+      "es-ES": "Quizá estás en modo escritorio y no puedes levantar bien la mano.",
+      "pt-BR": "Talvez esteja no modo Desktop e não consiga levantar a mão direito.",
+      "de-DE": "Vielleicht bist du im Desktop-Modus und kannst deine Hand deshalb nicht richtig heben.",
+      "fr-FR": "Peut-être êtes-vous en mode Bureau et ne pouvez-vous pas bien lever la main."
+    }
+  ],
+  "dbsb_lc3": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "さて、プレイヤーには[行|おこな]ってもらいたいことがあります。この場所で。",
+      "en-US": "Now, there is something I want the Player to do. Here, in this place.",
+      "ko-KR": "자, 플레이어에게 이곳에서 해 주었으면 하는 일이 있습니다.",
+      "zh-CN": "那么，我希望玩家在这里做一件事。",
+      "zh-TW": "那麼，我希望玩家在這裡做一件事。",
+      "ru-RU": "Итак, я хочу, чтобы Игрок сделал здесь одну вещь.",
+      "es-ES": "Bien, hay algo que quiero que el Jugador haga aquí.",
+      "pt-BR": "Bem, há algo que quero que o Jogador faça aqui.",
+      "de-DE": "Nun, der Spieler soll hier eine Sache tun.",
+      "fr-FR": "Bien, il y a une chose que je voudrais que le Joueur fasse ici."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "「武器」のアクティベートです。",
+      "en-US": "Activate the WEAPON.",
+      "ko-KR": "‘무기’를 활성화하는 것입니다.",
+      "zh-CN": "激活“武器”。",
+      "zh-TW": "啟動「武器」。",
+      "ru-RU": "Активировал «ОРУЖИЕ».",
+      "es-ES": "Activar el «ARMA».",
+      "pt-BR": "Ativar a “ARMA”.",
+      "de-DE": "Die „WAFFE“ aktivieren.",
+      "fr-FR": "Activer l'« ARME »."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "シャベルが最初の展示室に置きます。まずそれを手にとってください。",
+      "en-US": "Shovels are placed in the first exhibition room. Pick one up first.",
+      "ko-KR": "첫 번째 전시실에 삽이 놓여 있습니다. 우선 그것을 들어 주세요.",
+      "zh-CN": "第一间展室里放着铲子。请先把它拿起来。",
+      "zh-TW": "第一間展覽室裡放著鏟子。請先把它拿起來。",
+      "ru-RU": "В первом выставочном зале лежат лопаты. Сначала возьмите одну.",
+      "es-ES": "Hay unas palas en la primera sala de exposición. Coge una primero.",
+      "pt-BR": "Há pás na primeira sala de exposição. Primeiro, pegue uma.",
+      "de-DE": "Im ersten Ausstellungsraum liegen Schaufeln. Nimm zuerst eine davon.",
+      "fr-FR": "Des pelles se trouvent dans la première salle d'exposition. Prenez-en une d'abord."
+    }
+  ],
+  "dbsb_lc3_help": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "持ちましたか？いろいろ試してみたりした？",
+      "en-US": "Have you got it? Tried a few things with it?",
+      "ko-KR": "들었나요? 이것저것 시험해 보기도 했고요?",
+      "zh-CN": "拿到了吗？有试过做些什么吗？",
+      "zh-TW": "拿到了嗎？有試著做些什麼嗎？",
+      "ru-RU": "Взяли? Пробовали что-нибудь сделать?",
+      "es-ES": "¿La tienes? ¿Has probado algo con ella?",
+      "pt-BR": "Pegou? Tentou fazer alguma coisa com ela?",
+      "de-DE": "Hast du sie? Hast du etwas damit ausprobiert?",
+      "fr-FR": "Vous l'avez ? Vous avez essayé quelque chose avec ?"
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "もしかして、私が誰なのか疑っていますか？",
+      "en-US": "Perhaps you're wondering who I am?",
+      "ko-KR": "혹시 제가 누구인지 의심하고 있나요?",
+      "zh-CN": "难道你在怀疑我是谁吗？",
+      "zh-TW": "難道你在懷疑我是誰嗎？",
+      "ru-RU": "Возможно, вы сомневаетесь в том, кто я?",
+      "es-ES": "¿Acaso dudas de quién soy?",
+      "pt-BR": "Talvez você esteja desconfiando de quem eu sou?",
+      "de-DE": "Zweifelst du vielleicht daran, wer ich bin?",
+      "fr-FR": "Vous doutez peut-être de mon identité ?"
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "まあ、[怪|あや]しいですね。[壁|・]越しに突然話しかけてくるキャラクター。",
+      "en-US": "Well, it is suspicious. Some character suddenly talking to you through a <i>wall</i>.",
+      "ko-KR": "뭐, 수상하긴 하죠. <b>벽</b> 너머에서 갑자기 말을 거는 캐릭터라니.",
+      "zh-CN": "嗯，的确很可疑。一个隔着<b>墙</b>突然对你说话的角色。",
+      "zh-TW": "嗯，的確很可疑。一個隔著<b>牆</b>突然對你說話的角色。",
+      "ru-RU": "Да, подозрительный персонаж, внезапно говорящий с вами через <i>стену</i>.",
+      "es-ES": "Bueno, sí que resulta sospechoso: un personaje que te habla de repente a través de la <i>pared</i>.",
+      "pt-BR": "Bem, é mesmo suspeito: um personagem que fala com você de repente através da <i>parede</i>.",
+      "de-DE": "Nun, ich bin schon verdächtig: eine Figur, die dich plötzlich durch die <i>Wand</i> anspricht.",
+      "fr-FR": "Eh bien, je suis louche : un personnage qui vous parle soudainement à travers le <i>mur</i>."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "私はあなたの味方です。あなた達の。あなた達は私達の味方です。きっと。",
+      "en-US": "I'm on your side. All of yours. You are on our side. Surely.",
+      "ko-KR": "저는 당신 편입니다. 당신들의 편. 당신들은 우리 편입니다. 분명히.",
+      "zh-CN": "我是站在你这边的。你们这边。你们也站在我们这边。一定是。",
+      "zh-TW": "我是站在你這邊的。你們這邊。你們也站在我們這邊。一定是。",
+      "ru-RU": "Я на вашей стороне. На вашей. Вы на нашей стороне. Наверняка.",
+      "es-ES": "Estoy de tu lado. Del vuestro. Vosotros estáis del nuestro. Seguro.",
+      "pt-BR": "Estou do seu lado. Do lado de vocês. Vocês estão do nosso lado. Com certeza.",
+      "de-DE": "Ich bin auf deiner Seite. Auf eurer. Ihr seid auf unserer Seite. Bestimmt.",
+      "fr-FR": "Je suis de votre côté. Du vôtre. Vous êtes du nôtre. Sûrement."
+    }
+  ],
+  "dbsb_tablet": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "私の発言はそのタブレット端末にも表示されます。便利でしょ？",
+      "en-US": "The things I say also appear on that tablet. Convenient, isn't it?",
+      "ko-KR": "제 말은 그 태블릿 단말에도 표시됩니다. 편리하죠?",
+      "zh-CN": "我的发言也会显示在那台平板终端上。很方便吧？",
+      "zh-TW": "我的發言也會顯示在那台平板裝置上。很方便吧？",
+      "ru-RU": "Мои слова также отображаются на том планшете. Удобно, правда?",
+      "es-ES": "Mis mensajes también aparecen en esa tableta. Útil, ¿verdad?",
+      "pt-BR": "Minhas mensagens também aparecem naquele tablet. Prático, não é?",
+      "de-DE": "Meine Nachrichten erscheinen auch auf diesem Tablet. Praktisch, oder?",
+      "fr-FR": "Mes messages s'affichent aussi sur cette tablette. Pratique, non ?"
+    }
+  ],
+  "dbsb_boundary": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "それはバウンダリーです。いくつかの物体はこれを通過できません。",
+      "en-US": "That is a boundary. Certain objects cannot pass through it.",
+      "ko-KR": "그건 바운더리입니다. 몇몇 물체는 이것을 통과할 수 없습니다.",
+      "zh-CN": "那是边界。有些物体无法穿过它。",
+      "zh-TW": "那是邊界。有些物體無法穿過它。",
+      "ru-RU": "Это граница. Некоторые предметы не могут пройти сквозь неё.",
+      "es-ES": "Eso es una barrera. Algunos objetos no pueden atravesarla.",
+      "pt-BR": "Isso é uma barreira. Alguns objetos não conseguem atravessá-la.",
+      "de-DE": "Das ist eine Barriere. Manche Objekte können sie nicht durchqueren.",
+      "fr-FR": "C'est une barrière. Certains objets ne peuvent pas la traverser."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "これってパズルゲームっぽいでしょ？",
+      "en-US": "It feels like a puzzle game, doesn't it?",
+      "ko-KR": "이거 퍼즐 게임 같죠?",
+      "zh-CN": "这很像解谜游戏吧？",
+      "zh-TW": "這很像解謎遊戲吧？",
+      "ru-RU": "Похоже на головоломку, да?",
+      "es-ES": "Parece un juego de puzles, ¿verdad?",
+      "pt-BR": "Parece um jogo de quebra-cabeça, não é?",
+      "de-DE": "Sieht wie ein Rätselspiel aus, oder?",
+      "fr-FR": "On dirait un jeu de réflexion, non ?"
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "しかしこれはゲームではありません。",
+      "en-US": "But this is not a game.",
+      "ko-KR": "하지만 이것은 게임이 아닙니다.",
+      "zh-CN": "但这不是游戏。",
+      "zh-TW": "但這不是遊戲。",
+      "ru-RU": "Но это не игра.",
+      "es-ES": "Pero esto no es un juego.",
+      "pt-BR": "Mas isto não é um jogo.",
+      "de-DE": "Aber das ist kein Spiel.",
+      "fr-FR": "Mais ceci n'est pas un jeu."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "一度シャベルを元の位置に戻してみてください。",
+      "en-US": "For now, please return the shovel to its original position.",
+      "ko-KR": "일단 삽을 원래 위치로 되돌려 보세요.",
+      "zh-CN": "请先试着把铲子放回原位。",
+      "zh-TW": "請先試著把鏟子放回原位。",
+      "ru-RU": "Попробуйте пока вернуть лопату на место.",
+      "es-ES": "Prueba a devolver la pala a su sitio.",
+      "pt-BR": "Tente devolver a pá ao lugar por enquanto.",
+      "de-DE": "Bring die Schaufel zunächst an ihren Platz zurück.",
+      "fr-FR": "Essayez d'abord de remettre la pelle à sa place."
+    }
+  ],
+  "dbsb_boundary_2": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "ではもう一度試してみてください。",
+      "en-US": "Then, please try again.",
+      "ko-KR": "그럼 다시 한번 시도해 보세요.",
+      "zh-CN": "那么，请再试一次。",
+      "zh-TW": "那麼，請再試一次。",
+      "ru-RU": "Теперь попробуйте ещё раз.",
+      "es-ES": "Ahora inténtalo otra vez.",
+      "pt-BR": "Agora tente novamente.",
+      "de-DE": "Versuch es jetzt noch einmal.",
+      "fr-FR": "Maintenant, réessayez."
+    }
+  ],
+  "dbsb_boundary_ok": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "OK、プレイヤーはオーバーライド可能であることが示されました。",
+      "en-US": "OK, the Player has demonstrated the ability to perform an Override.",
+      "ko-KR": "OK, 플레이어가 ‘초월’을 사용할 수 있음이 증명되었습니다.",
+      "zh-CN": "OK，已经证明玩家能够使用“超越”。",
+      "zh-TW": "OK，已經證明玩家能夠使用「超越」。",
+      "ru-RU": "OK, доказано, что Игрок способен выполнить переопределение.",
+      "es-ES": "OK, se ha demostrado que el Jugador puede sobrescribirla.",
+      "pt-BR": "OK, ficou provado que o Jogador pode sobrescrevê-la.",
+      "de-DE": "OK, der Spieler hat bewiesen, dass er sie überschreiben kann.",
+      "fr-FR": "OK, le Joueur a prouvé qu'il pouvait la contourner."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "つまり、バウンダリーは無視されうります。いいですね！",
+      "en-US": "In other words, boundaries can be ignored by you. Nice!",
+      "ko-KR": "즉, 바운더리는 무시할 수 있습니다. 좋네요!",
+      "zh-CN": "也就是说，边界可以被你无视。很好！",
+      "zh-TW": "也就是說，你可以無視邊界。很好！",
+      "ru-RU": "Иными словами, вы можете игнорировать границы. Отлично!",
+      "es-ES": "En otras palabras, puedes ignorar las barreras. ¡Bien!",
+      "pt-BR": "Em outras palavras, você pode ignorar as barreiras. Ótimo!",
+      "de-DE": "Mit anderen Worten: Du kannst Barrieren ignorieren. Gut!",
+      "fr-FR": "Autrement dit, vous pouvez ignorer les barrières. Bien !"
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "次に、シャベルで展示ケースをこじ開けて、銃を手に取ってください。",
+      "en-US": "Next, pry open the display case with the shovel and take the gun.",
+      "ko-KR": "다음으로 삽으로 전시 케이스를 비틀어 열고 총을 집으세요.",
+      "zh-CN": "接下来，用铲子撬开展示柜，然后拿起枪。",
+      "zh-TW": "接下來，用鏟子撬開展示櫃，然後拿起槍。",
+      "ru-RU": "Теперь взломайте лопатой витрину и возьмите пистолет.",
+      "es-ES": "Ahora fuerza la vitrina con la pala y coge la pistola.",
+      "pt-BR": "Agora use a pá para abrir a vitrine e pegue a pistola.",
+      "de-DE": "Brich nun mit der Schaufel die Vitrine auf und nimm die Pistole.",
+      "fr-FR": "Ensuite, forcez la vitrine avec la pelle et prenez le pistolet."
+    }
+  ],
+  "dbsb_lc3_ammo": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "拳銃です、それは。",
+      "en-US": "A handgun, that is.",
+      "ko-KR": "권총입니다, 그건.",
+      "zh-CN": "那是一把手枪。",
+      "zh-TW": "那是一把手槍。",
+      "ru-RU": "Это пистолет.",
+      "es-ES": "Eso es una pistola.",
+      "pt-BR": "Isso é uma pistola.",
+      "de-DE": "Das ist eine Pistole.",
+      "fr-FR": "C'est un pistolet."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "現在その銃には弾が入っていません。",
+      "en-US": "The gun currently has no ammo.",
+      "ko-KR": "현재 그 총에는 탄약이 들어 있지 않습니다.",
+      "zh-CN": "目前那把枪里没有子弹。",
+      "zh-TW": "目前那把槍裡沒有子彈。",
+      "ru-RU": "Сейчас в нём нет патронов.",
+      "es-ES": "Ahora mismo no tiene munición.",
+      "pt-BR": "No momento, ela está sem munição.",
+      "de-DE": "Momentan ist keine Munition darin.",
+      "fr-FR": "Pour l'instant, il ne contient aucune munition."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "「銀」のキューブからマガジンを取り出してください。",
+      "en-US": "Remove the magazine from the \"silver\" cube.",
+      "ko-KR": "‘은’ 큐브에서 탄창을 꺼내세요.",
+      "zh-CN": "请从“银”立方体中取出弹匣。",
+      "zh-TW": "請從「銀」方塊中取出彈匣。",
+      "ru-RU": "Достаньте магазин из «серебряного» куба.",
+      "es-ES": "Saca el cargador del cubo de «plata».",
+      "pt-BR": "Retire o carregador do cubo de “prata”.",
+      "de-DE": "Hol das Magazin aus dem „Silber“-Würfel.",
+      "fr-FR": "Retirez le chargeur du cube d'« argent »."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "取り出したら、それを銃に装填してください。",
+      "en-US": "Once you have it, load it into the gun.",
+      "ko-KR": "꺼냈으면 총에 장전하세요.",
+      "zh-CN": "取出后，把它装进枪里。",
+      "zh-TW": "取出後，把它裝進槍裡。",
+      "ru-RU": "Затем вставьте его в пистолет.",
+      "es-ES": "Después, introdúcelo en la pistola.",
+      "pt-BR": "Depois, coloque-o na pistola.",
+      "de-DE": "Setz es danach in die Pistole ein.",
+      "fr-FR": "Puis insérez-le dans le pistolet."
+    }
+  ],
+  "dbsb_lc3_ammo_help": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "「銀」、分かりますか？原子記号Agの元素です。",
+      "en-US": "You know \"silver,\" don't you? The element with the chemical symbol Ag.",
+      "ko-KR": "‘은’, 알겠나요? 원소 기호 Ag인 원소입니다.",
+      "zh-CN": "“银”，明白吗？就是元素符号为Ag的元素。",
+      "zh-TW": "「銀」，明白嗎？就是元素符號為Ag的元素。",
+      "ru-RU": "Понимаете, «серебро»? Элемент с символом Ag.",
+      "es-ES": "«Plata», ¿lo entiendes? El elemento de símbolo Ag.",
+      "pt-BR": "“Prata”, entendeu? O elemento de símbolo Ag.",
+      "de-DE": "„Silber“, verstanden? Das Element mit dem Symbol Ag.",
+      "fr-FR": "L'« argent », vous comprenez ? L'élément de symbole Ag."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "LCのメタルコード規約では薄水色に塗装するようになっています。",
+      "en-US": "The cube is colored light blue according to LC's LPM metal code.",
+      "ko-KR": "LC의 메탈 코드 규약에 따라 옅은 하늘색으로 칠해져 있습니다.",
+      "zh-CN": "按照LC的金属色码规范，它被涂成了浅蓝色。",
+      "zh-TW": "按照LC的金屬色碼規範，它被塗成了淺藍色。",
+      "ru-RU": "По правилам цветовой маркировки металлов LC он окрашен в светло-голубой.",
+      "es-ES": "Según el código de metales de LC, está pintado de azul claro.",
+      "pt-BR": "Segundo o código de metais da LC, ele é pintado de azul-claro.",
+      "de-DE": "Nach dem Metallfarbcode von LC ist er hellblau lackiert.",
+      "fr-FR": "Selon le code des métaux de LC, il est peint en bleu clair."
+    }
+  ],
+  "dbsb_glass": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "OK。銀は極めて強い反狂気性を持ちます。",
+      "en-US": "OK. Silver possesses extremely strong anti-lunaticity.",
+      "ko-KR": "OK. 은은 극도로 강한 반광기성을 지닙니다.",
+      "zh-CN": "OK。银具有极强的抗疯狂性。",
+      "zh-TW": "OK。銀具有極強的抗瘋狂性。",
+      "ru-RU": "OK. Серебро обладает чрезвычайно высокой устойчивостью к безумию.",
+      "es-ES": "OK. La plata posee una resistencia extrema a la locura.",
+      "pt-BR": "OK. A prata possui uma resistência extrema à loucura.",
+      "de-DE": "OK. Silber besitzt eine äußerst starke Anti-Wahnsinns-Wirkung.",
+      "fr-FR": "OK. L'argent possède une résistance extrême à la folie."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "すなわち、それを持てるプレイヤーはまだ発狂していません。",
+      "en-US": "In other words, a Player who can hold it has not yet been lunatized.",
+      "ko-KR": "즉, 그것을 들 수 있는 플레이어는 아직 발광하지 않았습니다.",
+      "zh-CN": "也就是说，能够拿起它的玩家还没有陷入疯狂。",
+      "zh-TW": "也就是說，能夠拿起它的玩家還沒有陷入瘋狂。",
+      "ru-RU": "Значит, Игрок, способный держать его, ещё не обезумел.",
+      "es-ES": "Por tanto, el Jugador que puede sostenerla aún no ha enloquecido.",
+      "pt-BR": "Portanto, o Jogador capaz de segurá-la ainda não enlouqueceu.",
+      "de-DE": "Ein Spieler, der es halten kann, ist also noch nicht wahnsinnig geworden.",
+      "fr-FR": "Ainsi, le Joueur capable de le tenir n'a pas encore sombré dans la folie."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "いいですね。いいですか？",
+      "en-US": "Good. Understood?",
+      "ko-KR": "좋네요. 알겠죠?",
+      "zh-CN": "很好。明白了吗？",
+      "zh-TW": "很好。明白了嗎？",
+      "ru-RU": "Хорошо. Понятно?",
+      "es-ES": "Bien. ¿Entendido?",
+      "pt-BR": "Ótimo. Entendeu?",
+      "de-DE": "Gut. Verstanden?",
+      "fr-FR": "Bien. Compris ?"
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "では、エントランスにあるガラス板をそれで撃ってください。",
+      "en-US": "Now, use it to shoot the glass panel in the entrance.",
+      "ko-KR": "그럼 입구에 있는 유리판을 그것으로 쏘세요.",
+      "zh-CN": "那么，请用它射击入口处的玻璃板。",
+      "zh-TW": "那麼，請用它射擊入口處的玻璃板。",
+      "ru-RU": "Тогда выстрелите из него в стеклянную панель у входа.",
+      "es-ES": "Entonces dispara con ella a la placa de cristal de la entrada.",
+      "pt-BR": "Então atire com ela na placa de vidro da entrada.",
+      "de-DE": "Dann schieß damit auf die Glasscheibe am Eingang.",
+      "fr-FR": "Alors, tirez avec sur la plaque de verre de l'entrée."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "祝福は一時的にドレインしているので、銃弾は通常の拳銃弾として動作します。",
+      "en-US": "The blessing has been temporarily drained, so the bullets will behave like ordinary handgun rounds.",
+      "ko-KR": "축복은 일시적으로 드레인되어 있으므로 총알은 일반 권총탄처럼 작동합니다.",
+      "zh-CN": "由于祝福暂时被抽离，子弹会像普通手枪弹一样发挥作用。",
+      "zh-TW": "由於祝福暫時被抽離，子彈會像普通手槍彈一樣發揮作用。",
+      "ru-RU": "Поскольку благословения временно отведены, пули действуют как обычные пистолетные патроны.",
+      "es-ES": "Como las bendiciones están drenadas temporalmente, las balas funcionarán como munición normal de pistola.",
+      "pt-BR": "Como as bênçãos estão temporariamente drenadas, as balas funcionarão como munição normal de pistola.",
+      "de-DE": "Da die Segnungen vorübergehend entzogen sind, wirken die Kugeln wie normale Pistolenmunition.",
+      "fr-FR": "Les bénédictions étant temporairement drainées, les balles agiront comme des munitions ordinaires de pistolet."
+    }
+  ],
+  "dbsb_glass_help": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "銃の撃ち方、分かってますよね？",
+      "en-US": "You know how to fire a gun, right?",
+      "ko-KR": "총 쏘는 법은 알고 있죠?",
+      "zh-CN": "你知道怎么开枪吧？",
+      "zh-TW": "你知道怎麼開槍吧？",
+      "ru-RU": "Вы ведь знаете, как стрелять?",
+      "es-ES": "Sabes cómo disparar, ¿verdad?",
+      "pt-BR": "Você sabe atirar, certo?",
+      "de-DE": "Du weißt doch, wie man schießt?",
+      "fr-FR": "Vous savez tirer, n'est-ce pas ?"
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "持って、「トリガー」を引くのです。",
+      "en-US": "Grab it, and then pull the trigger.",
+      "ko-KR": "들고 ‘트리거’를 당기세요.",
+      "zh-CN": "拿起它，然后扣动“扳机”。",
+      "zh-TW": "拿起它，然後扣動「扳機」。",
+      "ru-RU": "Возьмите оружие и нажмите «спуск».",
+      "es-ES": "Cógela y aprieta el «gatillo».",
+      "pt-BR": "Pegue-a e aperte o “gatilho”.",
+      "de-DE": "Nimm sie und drück den „Abzug“.",
+      "fr-FR": "Prenez-le, puis appuyez sur la « gâchette »."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "「トリガー」はその銃のでもあり、プレイヤーが持っていたコントローラのでもあります。",
+      "en-US": "The \"trigger\" is both the one on the gun and the one on the controller the Player was holding.",
+      "ko-KR": "‘트리거’는 그 총의 방아쇠이자 플레이어가 들고 있던 컨트롤러의 트리거이기도 합니다.",
+      "zh-CN": "这里的“扳机”既指那把枪的扳机，也指玩家当时拿着的控制器上的扳机。",
+      "zh-TW": "這裡的「扳機」既指那把槍的扳機，也指玩家當時拿著的控制器上的扳機。",
+      "ru-RU": "«Спуск» — это и спуск пистолета, и кнопка на контроллере, который держал Игрок.",
+      "es-ES": "El «gatillo» es tanto el de la pistola como el del mando que sostenía el Jugador.",
+      "pt-BR": "O “gatilho” é tanto o da pistola quanto o do controle que o Jogador segurava.",
+      "de-DE": "Der „Abzug“ meint sowohl den der Pistole als auch den Trigger am Controller, den der Spieler in der Hand hielt.",
+      "fr-FR": "La « gâchette » désigne celle du pistolet, mais aussi celle de la manette que tenait le Joueur."
+    }
+  ],
+  "dbsb_glass_noammo": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "もう弾を使い切ってしまったのですか？先ほどの「銀」のステップからやり直してください。",
+      "en-US": "Wait, did you use all of the ammo? Please start again from the \"silver\" step.",
+      "ko-KR": "벌써 탄약을 다 써 버렸나요? 아까의 ‘은’ 단계부터 다시 해 주세요.",
+      "zh-CN": "已经把子弹用完了吗？请从刚才的“银”步骤重新开始。",
+      "zh-TW": "已經把子彈用完了嗎？請從剛才的「銀」步驟重新開始。",
+      "ru-RU": "Уже израсходовали все патроны? Начните снова с шага «серебро».",
+      "es-ES": "¿Ya has gastado toda la munición? Vuelve a empezar desde el paso de la «plata».",
+      "pt-BR": "Já gastou toda a munição? Recomece da etapa da “prata”.",
+      "de-DE": "Schon die ganze Munition verbraucht? Fang beim Schritt „Silber“ noch einmal an.",
+      "fr-FR": "Vous avez déjà épuisé toutes les munitions ? Recommencez à l'étape de l'« argent »."
+    }
+  ],
+  "dbsb_glass_noammo_more": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "それ、わざと弾を乱発していませんか？",
+      "en-US": "Are you wasting ammo intentionally?",
+      "ko-KR": "그거, 일부러 탄을 마구 쏘는 것 아닌가요?",
+      "zh-CN": "你不是故意在乱射子弹吧？",
+      "zh-TW": "你不是故意在亂射子彈吧？",
+      "ru-RU": "Вы ведь не нарочно разбрасываетесь патронами?",
+      "es-ES": "No estarás malgastando balas a propósito, ¿verdad?",
+      "pt-BR": "Você não está desperdiçando balas de propósito, está?",
+      "de-DE": "Du verschwendest die Munition nicht absichtlich, oder?",
+      "fr-FR": "Vous ne gaspillez pas les balles exprès, n'est-ce pas ?"
+    }
+  ],
+  "dbsb_glass_window": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "それはガラスですが、窓ガラスです。私の言ってるのはそれではありません。",
+      "en-US": "That is glass, yes, but it is a window. That isn't the one I mean.",
+      "ko-KR": "그건 유리이긴 하지만 창문 유리입니다. 제가 말한 건 그게 아닙니다.",
+      "zh-CN": "那虽然也是玻璃，但它是窗户玻璃。不是我说的那个。",
+      "zh-TW": "那雖然也是玻璃，但它是窗戶玻璃。不是我說的那個。",
+      "ru-RU": "Это стекло, но оконное. Я говорил не о нём.",
+      "es-ES": "Eso es cristal, pero de una ventana. No me refería a ese.",
+      "pt-BR": "Isso é vidro, mas é de uma janela. Não é esse que mencionei.",
+      "de-DE": "Das ist Glas, aber Fensterglas. Das meinte ich nicht.",
+      "fr-FR": "C'est bien du verre, mais celui d'une fenêtre. Ce n'est pas ce dont je parle."
+    }
+  ],
+  "dbsb_glass_bob": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "それは私たちの重要な仲間のものです。撃たないでください。",
+      "en-US": "That belongs to an important friend of ours. Do not shoot it.",
+      "ko-KR": "그건 우리의 소중한 동료의 것입니다. 쏘지 마세요.",
+      "zh-CN": "那是我们一位重要伙伴的东西。请不要开枪。",
+      "zh-TW": "那是我們一位重要夥伴的東西。請不要開槍。",
+      "ru-RU": "Это принадлежит нашему важному товарищу. Не стреляйте.",
+      "es-ES": "Eso pertenece a un compañero muy importante para nosotros. No dispares.",
+      "pt-BR": "Isso pertence a um companheiro importante para nós. Não atire.",
+      "de-DE": "Das gehört einem wichtigen Gefährten von uns. Schieß nicht darauf.",
+      "fr-FR": "Cela appartient à un compagnon important pour nous. Ne tirez pas dessus."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "いえ、もう不要はありますが。",
+      "en-US": "Though, no, it is no longer needed.",
+      "ko-KR": "아니, 이제 필요 없기는 하지만요.",
+      "zh-CN": "虽然现在已经不需要它了。",
+      "zh-TW": "雖然現在已經不需要它了。",
+      "ru-RU": "Хотя теперь она уже не нужна.",
+      "es-ES": "Aunque ya no lo necesitamos.",
+      "pt-BR": "Embora já não precisemos dela.",
+      "de-DE": "Obwohl wir es nicht mehr brauchen.",
+      "fr-FR": "Même si nous n'en avons plus besoin."
+    }
+  ],
+  "dbsb_glass_window_2": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "「それ」は来ていません。今はまだ。",
+      "en-US": "\"It\" has not come. Not yet.",
+      "ko-KR": "‘그것’은 아직 오지 않았습니다. 지금은 아직.",
+      "zh-CN": "“它”还没有来。现在还没有。",
+      "zh-TW": "「它」還沒有來。現在還沒有。",
+      "ru-RU": "«Оно» ещё не пришло. Пока нет.",
+      "es-ES": "«Eso» todavía no ha llegado. Aún no.",
+      "pt-BR": "“Aquilo” ainda não chegou. Ainda não.",
+      "de-DE": "„Es“ ist noch nicht gekommen. Noch nicht.",
+      "fr-FR": "« Ça » n'est pas encore arrivé. Pas encore."
+    }
+  ],
+  "dbsb_glass_nice": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "ナイスショット！",
+      "en-US": "Good shot!",
+      "ko-KR": "나이스 샷!",
+      "zh-CN": "好枪法！",
+      "zh-TW": "好槍法！",
+      "ru-RU": "Отличный выстрел!",
+      "es-ES": "¡Buen disparo!",
+      "pt-BR": "Belo tiro!",
+      "de-DE": "Guter Schuss!",
+      "fr-FR": "Joli tir !"
+    }
+  ],
+  "dbsb_glass_ok": [
+    {
+      "speaker": "unknown",
+      "ja-JP": "OK。それを割れましたか？",
+      "en-US": "OK. Were you able to break it?",
+      "ko-KR": "OK. 그걸 깼나요?",
+      "zh-CN": "OK。你把它打碎了吗？",
+      "zh-TW": "OK。你把它打碎了嗎？",
+      "ru-RU": "OK. Вы разбили её?",
+      "es-ES": "OK. ¿La has roto?",
+      "pt-BR": "OK. Você a quebrou?",
+      "de-DE": "OK. Hast du sie zerbrochen?",
+      "fr-FR": "OK. Vous l'avez brisée ?"
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "しかし、あのガラス板は[偽|ぎ]デュランダルの性質を少しだけ転移させたものでした。",
+      "en-US": "But that glass panel had been imbued with a small portion of Pseudo-Durandal's nature.",
+      "ko-KR": "하지만 저 유리판에는 가짜 뒤랑달의 성질이 조금 전이되어 있었습니다.",
+      "zh-CN": "可是，那块玻璃板被转移了一小部分伪杜兰达尔的性质。",
+      "zh-TW": "可是，那塊玻璃板被轉移了一小部分偽杜蘭達爾的性質。",
+      "ru-RU": "Но этой панели была передана часть свойств Псевдо-Дюрандаля.",
+      "es-ES": "Pero esa placa había recibido parte de las propiedades de la Pseudo-Durandarte.",
+      "pt-BR": "Mas aquela placa recebeu parte das propriedades da Pseudo-Durindana.",
+      "de-DE": "Aber auf diese Scheibe wurde ein Teil der Eigenschaften von Pseudo-Durendal übertragen.",
+      "fr-FR": "Mais cette plaque avait reçu une partie des propriétés du Pseudo-Durandal."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "つまり、それは割れないはずでした。",
+      "en-US": "In other words, it should have been unbreakable.",
+      "ko-KR": "즉, 그것은 깨지지 않아야 했습니다.",
+      "zh-CN": "也就是说，它本来应该无法打碎。",
+      "zh-TW": "也就是說，它原本應該無法打碎。",
+      "ru-RU": "Иными словами, она НЕ должна была разбиться.",
+      "es-ES": "Es decir, NO debería haberse roto.",
+      "pt-BR": "Ou seja, ela NÃO deveria ter quebrado.",
+      "de-DE": "Mit anderen Worten: Sie hätte NICHT zerbrechen dürfen.",
+      "fr-FR": "Autrement dit, elle n'aurait PAS dû se briser."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "OK、試験は完了です。",
+      "en-US": "OK, the test is complete.",
+      "ko-KR": "OK, 시험은 완료되었습니다.",
+      "zh-CN": "OK，测试完成。",
+      "zh-TW": "OK，測試完成。",
+      "ru-RU": "OK, испытание завершено.",
+      "es-ES": "OK, la prueba ha terminado.",
+      "pt-BR": "OK, o teste terminou.",
+      "de-DE": "OK, die Prüfung ist abgeschlossen.",
+      "fr-FR": "OK, l'épreuve est terminée."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "[あ|・][な|・][た|・]の。",
+      "en-US": "<i>Yours</i>.",
+      "ko-KR": "<b>당신의</b>……",
+      "zh-CN": "……<b>对你的</b>。",
+      "zh-TW": "……<b>對你的</b>。",
+      "ru-RU": "…<i>ваше</i>.",
+      "es-ES": "…<i>la tuya</i>.",
+      "pt-BR": "…<i>o seu</i>.",
+      "de-DE": "… <i>deine</i>.",
+      "fr-FR": "… <i>la vôtre</i>."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "次のプレイヤーのために銃をフロントデスクに置いて、インスタンスから退出してください。",
+      "en-US": "Leave the gun at the front desk for the next Player, then exit the instance.",
+      "ko-KR": "다음 플레이어를 위해 총을 프런트 데스크에 놓고 인스턴스에서 나가 주세요.",
+      "zh-CN": "请把枪放在前台，留给下一位玩家，然后退出这个实例。",
+      "zh-TW": "請把槍放在服務台，留給下一位玩家，然後退出這個實例。",
+      "ru-RU": "Оставьте пистолет на стойке для следующего Игрока и покиньте инстанс.",
+      "es-ES": "Deja la pistola en recepción para el siguiente Jugador y sal de la instancia.",
+      "pt-BR": "Deixe a pistola na recepção para o próximo Jogador e saia da instância.",
+      "de-DE": "Leg die Pistole für den nächsten Spieler am Empfang ab und verlasse die Instanz.",
+      "fr-FR": "Déposez le pistolet à l'accueil pour le Joueur suivant, puis quittez l'instance."
+    },
+    {
+      "speaker": "unknown",
+      "ja-JP": "夏が始まったあとの日で、あなたを待っています。",
+      "en-US": "I will be waiting for you on a day after the Summer begins.",
+      "ko-KR": "여름이 시작된 뒤의 어느 날, 당신을 기다리겠습니다.",
+      "zh-CN": "我会在夏日开始后的某一天等你。",
+      "zh-TW": "我會在夏日開始後的某一天等你。",
+      "ru-RU": "Я буду ждать вас в один из дней после начала Лета.",
+      "es-ES": "Te esperaré uno de los días posteriores al comienzo del Verano.",
+      "pt-BR": "Vou esperar por você em algum dia após o início do Verão.",
+      "de-DE": "Ich werde an einem der Tage nach Beginn des Sommers auf dich warten.",
+      "fr-FR": "Je vous attendrai un de ces jours, après le début de l’Été."
+    }
+  ]
+}

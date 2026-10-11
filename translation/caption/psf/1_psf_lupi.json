@@ -1,0 +1,1134 @@
+{
+  "hello": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "こんにちは？",
+      "en-US": "Hello?",
+      "fr-FR": "Bonjour ?",
+      "ko-KR": "안녕하세요?",
+      "zh-CN": "你好？",
+      "zh-TW": "你好？",
+      "ru-RU": "Алло?",
+      "es-ES": "¿Hola?",
+      "pt-BR": "Olá?",
+      "de-DE": "Hallo?"
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "よかった。この端末は見えていますね。",
+      "en-US": "Good. You can see this terminal.",
+      "fr-FR": "Parfait. Vous voyez bien cette tablette.",
+      "ko-KR": "다행이네요. 이 태블릿이 보이는군요.",
+      "zh-CN": "太好了。你能看到这台终端。",
+      "zh-TW": "太好了。你看得到這台終端。",
+      "ru-RU": "Отлично. Значит, вы видите этот планшет.",
+      "es-ES": "Bien, puedes ver esta tableta.",
+      "pt-BR": "Ótimo. Você consegue ver este terminal.",
+      "de-DE": "Gut. Du kannst dieses Terminal sehen."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "私はオペレータのLuPIです。",
+      "en-US": "I'm LuPI, your operator.",
+      "fr-FR": "Je suis LuPI, votre opératrice.",
+      "ko-KR": "저는 오퍼레이터 LuPI입니다.",
+      "zh-CN": "我是操作员LuPI。",
+      "zh-TW": "我是操作員LuPI。",
+      "ru-RU": "Я LuPI, оператор.",
+      "es-ES": "Soy LuPI, la operadora.",
+      "pt-BR": "Sou LuPI, a operadora.",
+      "de-DE": "Ich bin LuPI, die Operatorin."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "もしかして、前にお話ししましたっけ？",
+      "en-US": "Have we spoken before, by any chance?",
+      "fr-FR": "Nous nous sommes peut-être déjà parlé ?",
+      "ko-KR": "혹시 전에 이야기한 적이 있나요?",
+      "zh-CN": "我们以前是不是聊过？",
+      "zh-TW": "我們以前是不是聊過？",
+      "ru-RU": "Возможно, мы уже разговаривали?",
+      "es-ES": "¿Puede que hayamos hablado antes?",
+      "pt-BR": "Será que já conversamos antes?",
+      "de-DE": "Haben wir vielleicht schon einmal miteinander gesprochen?"
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "状況を説明します。私達はサマーフレア作戦を実行中です。",
+      "en-US": "Let me explain the situation. We're running Operation Summer Flare.",
+      "fr-FR": "Je vais vous expliquer la situation. Nous exécutons l'opération Summer Flare.",
+      "ko-KR": "상황을 설명하겠습니다. 현재 Summer Flare 작전을 수행 중입니다.",
+      "zh-CN": "我来说明情况。我们正在执行“Summer Flare”行动。",
+      "zh-TW": "我來說明情況。我們正在執行「Summer Flare」行動。",
+      "ru-RU": "Позвольте объяснить ситуацию. Мы проводим операцию «Summer Flare».",
+      "es-ES": "Voy a explicar la situación. Estamos llevando a cabo la Operación Summer Flare.",
+      "pt-BR": "Vou explicar a situação. Estamos executando a Operação Summer Flare.",
+      "de-DE": "Ich erkläre die Lage. Wir führen Operation Summer Flare durch."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "そこで、プレイヤーであるあなたには、目的である「サテライト」のリセットを行ってもらいたいのです。",
+      "en-US": "And I need you, the Player, to carry out our objective: resetting Satellite.",
+      "fr-FR": "Vous êtes le Player, et je voudrais que vous réinitialisiez « Satellite », l'objectif de cette opération.",
+      "ko-KR": "플레이어인 당신에게 이번 작전의 목표인 \"위성\"을 리셋해 주셨으면 합니다.",
+      "zh-CN": "我希望身为玩家的你重置本次行动的主要目标“卫星”。",
+      "zh-TW": "我希望身為玩家的你重置本次行動的主要目標「衛星」。",
+      "ru-RU": "Я хочу, чтобы вы, Player, перезапустили «Спутник» — цель операции.",
+      "es-ES": "Quiero que tú, el Player, reinicies «Satélite», el objetivo de la operación.",
+      "pt-BR": "Quero que você, Player, reinicie o nosso objetivo: Satélite.",
+      "de-DE": "Du als Player sollst unser Ziel, Satellit, zurücksetzen."
+    }
+  ],
+  "hello_2": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "ひとまずこの先の倉庫まで移動してください。コンビニのあった場所です。",
+      "en-US": "For now, proceed to the storage area ahead. It's where the convenience store used to be.",
+      "fr-FR": "Commencez par rejoindre l'entrepôt plus loin. C'est là que se trouvait la supérette.",
+      "ko-KR": "우선 앞쪽 창고로 이동해 주세요. 편의점이 있던 자리입니다.",
+      "zh-CN": "请先前往前面的仓库，就是以前便利店所在的地方。",
+      "zh-TW": "請先前往前面的倉庫，就是以前便利商店所在的地方。",
+      "ru-RU": "Сначала пройдите к следующему складу. Раньше там был магазин.",
+      "es-ES": "Primero, avanzad hasta el siguiente almacén. Es donde estaba la tienda de conveniencia.",
+      "pt-BR": "Primeiro, vá até o depósito adiante. É onde ficava a loja de conveniência.",
+      "de-DE": "Geh zunächst zum Lager vor dir. Dort war früher der Laden."
+    }
+  ],
+  "hello_help": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "あ、えと、とりあえず先に進んでもらえませんか？",
+      "en-US": "Well, could you move on for now?",
+      "fr-FR": "Euh... pourriez-vous avancer, pour commencer ?",
+      "ko-KR": "저기, 일단 앞으로 가 주시겠어요?",
+      "zh-CN": "呃，能先继续前进吗？",
+      "zh-TW": "呃，可以先繼續前進嗎？",
+      "ru-RU": "Эм, не могли бы вы пока двигаться дальше?",
+      "es-ES": "Bueno, ¿podríais avanzar por ahora?",
+      "pt-BR": "Ah, bem... poderia seguir em frente por enquanto?",
+      "de-DE": "Äh, könntest du vorerst weitergehen?"
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "動いてくれないと何も始まらないので...",
+      "en-US": "Nothing will happen unless you move ...",
+      "fr-FR": "Rien ne commencera tant que vous ne bougerez pas...",
+      "ko-KR": "움직이지 않으면 아무 일도 시작되지 않으니까요...",
+      "zh-CN": "你不行动的话，什么也不会开始……",
+      "zh-TW": "你不行動的話，什麼也不會開始……",
+      "ru-RU": "Пока вы не двинетесь, ничего не начнётся…",
+      "es-ES": "No ocurrirá nada hasta que os mováis…",
+      "pt-BR": "Nada vai começar se você não se mover...",
+      "de-DE": "Wenn du dich nicht bewegst, kann nichts beginnen ..."
+    }
+  ],
+  "tunnel": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "このドームはサテライトの基幹施設です。31年前に建設されました。",
+      "en-US": "This dome is one of Satellite's core facilities. It was built 31 years ago.",
+      "fr-FR": "Ce dôme fait partie des installations centrales de Satellite. Il a été construit il y a 31 ans.",
+      "ko-KR": "이 돔은 위성의 핵심 시설 일부입니다. 31년 전에 건설되었습니다.",
+      "zh-CN": "这座穹顶是卫星的核心设施之一，建于31年前。",
+      "zh-TW": "這座圓頂是衛星的核心設施之一，建於31年前。",
+      "ru-RU": "Этот купол — часть основного комплекса Спутника. Его построили 31 год назад.",
+      "es-ES": "Esta cúpula forma parte de las instalaciones principales de Satélite. Se construyó hace 31 años.",
+      "pt-BR": "Este domo faz parte das instalações centrais de Satélite. Foi construído há 31 anos.",
+      "de-DE": "Diese Kuppel gehört zur Hauptanlage von Satellit. Sie wurde vor 31 Jahren gebaut."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "今となっては誰がこれを建てたのかは分かりません。私達のうちの、誰かです。",
+      "en-US": "By now, no one knows who built it. One of us, whoever it was.",
+      "fr-FR": "Aujourd'hui, personne ne sait qui l'a construit. Quelqu'un parmi nous.",
+      "ko-KR": "이제는 누가 이곳을 지었는지 아무도 모릅니다. 우리 중 누군가입니다.",
+      "zh-CN": "如今没人知道是谁建造了这里。是我们中的某个人。",
+      "zh-TW": "如今沒人知道是誰建造了這裡。是我們中的某個人。",
+      "ru-RU": "Теперь никто не знает, кто его построил. Кто-то из нас.",
+      "es-ES": "Ahora nadie sabe quién construyó este lugar. Alguien de entre nosotros.",
+      "pt-BR": "Hoje ninguém sabe quem construiu este lugar. Um de nós.",
+      "de-DE": "Heute weiß niemand mehr, wer diesen Ort erbaut hat. Jemand von uns."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "ここはサテライトの予約領域の中でも最高レベルの保護が掛けられています。つまり...",
+      "en-US": "This place has the highest level of protection anywhere in Satellite's reserved territory. Which means...",
+      "fr-FR": "Cette installation bénéficie du plus haut niveau de protection parmi les zones réservées de Satellite. Autrement dit...",
+      "ko-KR": "이 시설은 위성의 보존 구역 중에서도 최고 수준의 보호를 받고 있습니다. 즉...",
+      "zh-CN": "这里在卫星的保留区域中也受到最高级别的保护。也就是说……",
+      "zh-TW": "這裡在衛星的保留區域中也受到最高級別的保護。也就是說……",
+      "ru-RU": "Этот объект имеет наивысший уровень защиты среди всех охраняемых зон Спутника. Иными словами…",
+      "es-ES": "Esta instalación tiene el nivel de protección más alto de todas las áreas preservadas de Satélite. Es decir…",
+      "pt-BR": "Esta área possui o nível mais alto de proteção entre as áreas reservadas de Satélite. Ou seja...",
+      "de-DE": "Dieses Gebiet besitzt den höchsten Schutz aller reservierten Bereiche von Satellit. Das heißt ..."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "普通の人間はこの場所では即座に発狂します。だからこそ、この作戦はあなたのような存在にしか遂行できません。",
+      "en-US": "An ordinary human would be lunatized instantly here. That is why this operation can only be carried out by a being like you.",
+      "fr-FR": "Toute personne ordinaire serait immédiatement frappée de folie ici. Voilà pourquoi cette opération ne peut être accomplie que par un être comme vous.",
+      "ko-KR": "평범한 인간은 이 시설에서 즉시 광기에 빠집니다. 그렇기에 이 작전은 당신과 같은 존재만 수행할 수 있습니다.",
+      "zh-CN": "普通人会在这里立刻陷入疯狂。所以，这项行动只有像你这样的存在才能执行。",
+      "zh-TW": "普通人會在這裡立刻陷入瘋狂。所以，這項行動只有像你這樣的存在才能執行。",
+      "ru-RU": "Обычный человек здесь мгновенно впадает в безумие. Поэтому эту операцию может выполнить только такое существо, как вы.",
+      "es-ES": "Cualquier persona corriente enloquece al instante aquí. Por eso solo un ser como tú puede llevar a cabo esta operación.",
+      "pt-BR": "Uma pessoa comum enlouqueceria instantaneamente aqui. Por isso, só alguém como você pode realizar esta operação.",
+      "de-DE": "Ein gewöhnlicher Mensch würde hier sofort wahnsinnig werden. Deshalb kann nur ein Wesen wie du diese Operation ausführen."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "あ、といっても誰もいないわけではないですよ。注意して進んでください。",
+      "en-US": "Oh, that doesn't mean no one is here. Proceed with caution.",
+      "fr-FR": "Mais cela ne veut pas dire qu'il n'y a personne. Avancez prudemment.",
+      "ko-KR": "아, 그렇다고 아무도 없다는 뜻은 아닙니다. 조심해서 나아가세요.",
+      "zh-CN": "不过，这并不表示这里没有人。请小心前进。",
+      "zh-TW": "不過，這並不表示這裡沒有人。請小心前進。",
+      "ru-RU": "Но это не значит, что здесь никого нет. Продвигайтесь осторожно.",
+      "es-ES": "Pero eso no significa que no haya nadie. Avanza con cuidado.",
+      "pt-BR": "Ah, mas isso não quer dizer que não haja ninguém aqui. Avance com cuidado.",
+      "de-DE": "Aber das heißt nicht, dass hier niemand ist. Geh vorsichtig weiter."
+    }
+  ],
+  "dydan_active": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "ダイダンです...！",
+      "en-US": "It's a Dydan...!",
+      "fr-FR": "C'est un Dydan... !",
+      "ko-KR": "다이단입니다...!",
+      "zh-CN": "是岱殚……！",
+      "zh-TW": "是岱殫……！",
+      "ru-RU": "Это Дайдан…!",
+      "es-ES": "¡Es un Dydan…!",
+      "pt-BR": "É um Dydan...!",
+      "de-DE": "Ein Dydan ...!"
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "下がって！",
+      "en-US": "Step back!",
+      "fr-FR": "Reculez !",
+      "ko-KR": "뒤로 물러나세요!",
+      "zh-CN": "后退！",
+      "zh-TW": "後退！",
+      "ru-RU": "Назад!",
+      "es-ES": "¡Atrás!",
+      "pt-BR": "Para trás!",
+      "de-DE": "Zurück!"
+    }
+  ],
+  "dydan_active_lc3": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "OK、落ち着いて。向こうに銃を配置してあります。それを確保してください。",
+      "en-US": "OK, stay calm. There's a gun positioned over there. Secure it.",
+      "fr-FR": "D'accord, gardez votre calme. Un pistolet a été placé là-bas. Récupérez-le.",
+      "ko-KR": "OK, 진정하세요. 저쪽에 총을 배치해 두었습니다. 확보하세요.",
+      "zh-CN": "OK，冷静。那边放置了一把枪，请取得它。",
+      "zh-TW": "OK，冷靜。那邊放置了一把槍，請取得它。",
+      "ru-RU": "Так, спокойно. Вон там размещён пистолет. Заберите его.",
+      "es-ES": "Bien, calma. Hay una pistola colocada allí. Hazte con ella.",
+      "pt-BR": "Certo, calma. Há uma arma posicionada ali. Pegue-a.",
+      "de-DE": "Okay, bleib ruhig. Dort drüben wurde eine Pistole platziert. Sichere sie."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "なんとかして銃のマーカーの場所まで進んでください。",
+      "en-US": "Do whatever you can to reach the gun marker.",
+      "fr-FR": "Rejoignez coûte que coûte l'emplacement du marqueur.",
+      "ko-KR": "어떻게든 마커가 있는 곳까지 가세요.",
+      "zh-CN": "无论如何都要到达标记处。",
+      "zh-TW": "無論如何都要到達標記處。",
+      "ru-RU": "Доберитесь до маркера, чего бы это ни стоило.",
+      "es-ES": "Llegad hasta el marcador como sea.",
+      "pt-BR": "Chegue ao marcador da arma de algum jeito.",
+      "de-DE": "Gelange irgendwie zur Markierung der Waffe."
+    }
+  ],
+  "dydan_identifire": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "いいですか、その9mm\"祝福\"弾ではダイダンに対して有効なダメージを与えられません！",
+      "en-US": "Listen, those 9 mm \"blessing\" rounds cannot deal effective damage to the Dydan!",
+      "fr-FR": "Écoutez-moi : ces munitions « bénédiction » de 9 mm sont inefficaces contre le Dydan !",
+      "ko-KR": "잘 들으세요. 그 9mm \"축복\" 탄은 다이단에게 효과적인 피해를 주지 못합니다!",
+      "zh-CN": "听好，那些9毫米“祝福”弹无法对岱殚造成有效伤害！",
+      "zh-TW": "聽好，那些9毫米「祝福」彈無法對岱殫造成有效傷害！",
+      "ru-RU": "Слушайте: ваши 9-мм пули «благословения» не наносят Дайдану серьёзного урона!",
+      "es-ES": "Escuchad: ¡esas balas de «bendición» de 9 mm no infligen daño efectivo al Dydan!",
+      "pt-BR": "Escute: seus projéteis de “bênção” de 9 mm não causam dano efetivo ao Dydan!",
+      "de-DE": "Hör zu: Deine 9-mm-„Segen“-Munition verursacht beim Dydan keinen wirksamen Schaden!"
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "「[同一視射撃|アイデンティファイヤ]」プロトコルを開始します。",
+      "en-US": "Initiating the \"Identifire\" protocol.",
+      "fr-FR": "J'active le protocole de Tir d’assimilation.",
+      "ko-KR": "<b>동일시 사격</b> 프로토콜을 시작합니다.",
+      "zh-CN": "启动<b>等同射击</b>协议。",
+      "zh-TW": "啟動<b>等同射擊</b>協定。",
+      "ru-RU": "Пора запустить протокол «Стрельба отождествления».",
+      "es-ES": "Es hora de iniciar el protocolo de Disparo de equiparación.",
+      "pt-BR": "Iniciarei o protocolo de Disparo de equiparação.",
+      "de-DE": "Ich starte das Gleichsetzungsschuss-Protokoll."
+    }
+  ],
+  "dydan_identifire_init": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "銃を戦車砲塔と同期させます。100%になるまで耐えてください！",
+      "en-US": "Synchronizing your gun with the tank turret. Hold out until it reaches 100%!",
+      "fr-FR": "Je synchronise votre arme avec la tourelle. Tenez bon jusqu'à 100 % !",
+      "ko-KR": "총을 포탑과 동기화합니다. 100%가 될 때까지 버티세요!",
+      "zh-CN": "把你的枪与炮塔同步。坚持到100%！",
+      "zh-TW": "把你的槍與砲塔同步。撐到100%！",
+      "ru-RU": "Ваше оружие будет синхронизировано с башней. Продержитесь до 100%!",
+      "es-ES": "Vuestra arma se sincronizará con una torreta. ¡Resistid hasta que llegue al 100 %!",
+      "pt-BR": "Sua arma será sincronizada com uma torre. Aguente até chegar a 100%!",
+      "de-DE": "Deine Waffe wird mit einem Geschützturm synchronisiert. Halte durch, bis 100 % erreicht sind!"
+    }
+  ],
+  "dydan_identifire_shoot": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "今です！",
+      "en-US": "Fire! Now!",
+      "fr-FR": "Maintenant ! Tirez !",
+      "ko-KR": "지금입니다! 쏘세요!",
+      "zh-CN": "就是现在！开火！",
+      "zh-TW": "就是現在！開火！",
+      "ru-RU": "Сейчас! Огонь!",
+      "es-ES": "¡Ahora! ¡Fuego!",
+      "pt-BR": "Agora! Atire!",
+      "de-DE": "Jetzt! Feuer!"
+    }
+  ],
+  "dydan_identifire_shoot_2": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "効いています！撃ち続けてください！",
+      "en-US": "It's working! Keep shooting!",
+      "fr-FR": "Ça marche ! Continuez à tirer !",
+      "ko-KR": "효과가 있어요! 계속 쏘세요!",
+      "zh-CN": "有效！继续射击！",
+      "zh-TW": "有效！繼續射擊！",
+      "ru-RU": "Действует! Продолжайте стрелять!",
+      "es-ES": "¡Está funcionando! ¡Seguid disparando!",
+      "pt-BR": "Está funcionando! Continue atirando!",
+      "de-DE": "Es wirkt! Schieß weiter!"
+    }
+  ],
+  "dydan_death": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "倒せましたか？",
+      "en-US": "Is it dead?",
+      "fr-FR": "Vous l'avez abattu ?",
+      "ko-KR": "죽었나요?",
+      "zh-CN": "它死了吗？",
+      "zh-TW": "它死了嗎？",
+      "ru-RU": "Он мёртв?",
+      "es-ES": "¿Ha muerto?",
+      "pt-BR": "Conseguiu derrotá-lo?",
+      "de-DE": "Ist er besiegt?"
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "「ダイダン」はこの島の怪物「ダイダラボッチ」を土木建設機械として転用したものです。",
+      "en-US": "The \"Dydan\" is this island's monster, the \"Daidarabotchi,\" repurposed as civil-engineering machinery.",
+      "fr-FR": "Les Dydan sont des monstres « Daidarabotchi » de cette île reconvertis en engins de chantier.",
+      "ko-KR": "다이단은 이 섬의 괴물 \"다이다라봇치\"를 건설 기계로 전용한 것입니다.",
+      "zh-CN": "岱殚是把岛上的怪物“大太法师”改造成工程机械的产物。",
+      "zh-TW": "岱殫是把島上的怪物「大太法師」改造成工程機械的產物。",
+      "ru-RU": "Дайдан — это островные чудовища «Дайдарабоччи», переделанные в строительные машины.",
+      "es-ES": "Los Dydan son monstruos «Daidarabotchi» de esta isla, convertidos en maquinaria de construcción.",
+      "pt-BR": "Os Dydans são monstros “Daidarabotchi” desta ilha convertidos em máquinas de construção.",
+      "de-DE": "Dydans sind die Monster „Daidarabotchi“ dieser Insel, die zu Baumaschinen umfunktioniert wurden."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "今のこの世界には、こういった狂気が蔓延しています。その銃も含めて。",
+      "en-US": "The world is now rife with Lunatics like this. That gun included.",
+      "fr-FR": "Aujourd'hui, ce genre de folie est omniprésent dans le monde. Votre arme en fait partie.",
+      "ko-KR": "지금 세계에는 이런 광기가 만연해 있습니다. 그 총도 포함해서요.",
+      "zh-CN": "如今这种疯狂遍布世界，包括你手中的枪。",
+      "zh-TW": "如今這種瘋狂遍布世界，包括你手中的槍。",
+      "ru-RU": "Теперь весь мир переполнен подобным безумием, включая ваше оружие.",
+      "es-ES": "Ahora el mundo está plagado de esta clase de locura, incluida vuestra arma.",
+      "pt-BR": "Hoje este mundo está repleto desse tipo de loucura, incluindo sua arma.",
+      "de-DE": "Diese Welt ist heute von solchem Wahnsinn erfüllt, einschließlich deiner Waffe."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "私たち[狂的制御機構|LC]はこの25年間、狂気を[以|もっ]て狂気を[御|ぎょ]する機関として活動してきましたが...",
+      "en-US": "For the past 25 years, we at Lunatic Control have worked to control Lunatics through Lunatics, but...",
+      "fr-FR": "Depuis 25 ans, nous, Lunatic Control, combattons la folie par la folie, mais...",
+      "ko-KR": "우리 <b>광기 제어 기구</b>, 줄여서 <b>LC</b>는 25년 동안 광기로 광기를 통제해 왔지만...",
+      "zh-CN": "我们<b>狂性控制机构</b>，简称<b>LC</b>，这25年来一直以疯狂控制疯狂，但是……",
+      "zh-TW": "我們<b>狂性控制機構</b>，簡稱<b>LC</b>，這25年來一直以瘋狂控制瘋狂，但是……",
+      "ru-RU": "Мы, Lunatic Control, уже 25 лет пытаемся управлять безумием с помощью безумия, но…",
+      "es-ES": "Nosotros, Lunatic Control, llevamos 25 años intentando controlar la locura mediante la locura, pero…",
+      "pt-BR": "Nós, da Lunatic Control, tentamos controlar a loucura usando a própria loucura há 25 anos, mas...",
+      "de-DE": "Wir von Lunatic Control versuchen seit 25 Jahren, Wahnsinn mithilfe von Wahnsinn zu kontrollieren, aber ..."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "狂気はこの世界に遍在しすぎました。このままでは人類は狂気に取り込まれてしまいます。",
+      "en-US": "Lunatics have become far too pervasive in this world. At this rate, humanity will be consumed by them.",
+      "fr-FR": "La folie s'est trop répandue dans ce monde. À ce rythme, elle finira par engloutir l'humanité.",
+      "ko-KR": "광기는 이 세계에 너무 널리 퍼졌습니다. 이대로면 인류가 광기에 지배당합니다.",
+      "zh-CN": "疯狂在世界上扩散得太广了。继续下去，人类会被疯狂吞噬。",
+      "zh-TW": "瘋狂在世界上擴散得太廣了。繼續下去，人類會被瘋狂吞噬。",
+      "ru-RU": "Безумие слишком распространилось по миру. Если так продолжится, оно поглотит человечество.",
+      "es-ES": "La locura se ha extendido demasiado por el mundo. Si esto continúa, engullirá a la humanidad.",
+      "pt-BR": "A loucura se espalhou demais por este mundo. Assim, a humanidade será dominada por ela.",
+      "de-DE": "Der Wahnsinn hat sich in dieser Welt zu weit verbreitet. So wird die Menschheit von ihm verschlungen."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "だからこそ、すべてをリセットしなければならないのです。世界を前に進めるために。",
+      "en-US": "That is why we must reset everything. To move the world forward.",
+      "fr-FR": "C'est pourquoi nous devons tout réinitialiser. Pour faire avancer le monde.",
+      "ko-KR": "그래서 모든 것을 리셋해야 합니다. 세계를 앞으로 나아가게 하기 위해서요.",
+      "zh-CN": "所以必须重置一切。为了让世界继续前进。",
+      "zh-TW": "所以必須重置一切。為了讓世界繼續前進。",
+      "ru-RU": "Поэтому мы должны всё перезапустить. Чтобы мир продолжил двигаться вперёд.",
+      "es-ES": "Por eso debemos reiniciarlo todo. Para que el mundo siga avanzando.",
+      "pt-BR": "Por isso precisamos reiniciar tudo. Para fazer o mundo avançar.",
+      "de-DE": "Deshalb müssen wir alles zurücksetzen. Damit die Welt voranschreiten kann."
+    }
+  ],
+  "dydan_death_2": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "回収のためにネクロマンサー班を派遣しています。プレイヤーは先に進んでください。",
+      "en-US": "A necromancer team is being dispatched for recovery. Player, proceed ahead.",
+      "fr-FR": "Une équipe de nécromanciens est envoyée pour la récupération. Player, continuez d'avancer.",
+      "ko-KR": "회수를 위해 네크로맨서반을 파견하고 있습니다. 플레이어는 먼저 나아가세요.",
+      "zh-CN": "正在派遣亡灵术士小队进行回收。玩家请继续前进。",
+      "zh-TW": "正在派遣亡靈術士小隊進行回收。玩家請繼續前進。",
+      "ru-RU": "Для эвакуации направлена группа некромантов. Player, продолжайте путь.",
+      "es-ES": "Se ha enviado un equipo de nigromantes para la recuperación. Player, sigue adelante.",
+      "pt-BR": "Uma equipe de necromantes está sendo enviada para a recuperação. Player, siga em frente.",
+      "de-DE": "Zur Bergung wird ein Nekromanten-Team entsandt. Player, geh weiter."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "それと、ダイダンのパーツに一度手を触れておいてください。あとで使います。",
+      "en-US": "Oh, and please touch a part of the Dydan before you go. We'll use it later.",
+      "fr-FR": "Et touchez une pièce du Dydan avant de partir. Nous nous en servirons plus tard.",
+      "ko-KR": "그리고 가기 전에 다이단의 부품을 만져 두세요. 나중에 사용합니다.",
+      "zh-CN": "另外，离开前请触摸一下岱殚的部件，之后会用到。",
+      "zh-TW": "另外，離開前請觸摸一下岱殫的零件，之後會用到。",
+      "ru-RU": "И перед уходом коснитесь детали Дайдана. Она понадобится нам позже.",
+      "es-ES": "Y antes de iros, tocad una pieza del Dydan. La usaremos después.",
+      "pt-BR": "Ah, toque em uma peça do Dydan antes de ir. Usaremos depois.",
+      "de-DE": "Berühre vorher noch ein Teil des Dydan. Wir brauchen es später."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "死者を恐れる必要はありません。ただ[弔|とむら]って、前に進めばいいのです。",
+      "en-US": "There is no need to fear the dead. Simply mourn them, and move forward.",
+      "fr-FR": "N'ayez pas peur des morts. Rendez-leur hommage, puis avancez.",
+      "ko-KR": "죽은 자를 두려워할 필요는 없습니다. 애도하고 앞으로 나아가면 됩니다.",
+      "zh-CN": "不必畏惧死者。悼念它，然后继续前进即可。",
+      "zh-TW": "不必畏懼死者。悼念它，然後繼續前進即可。",
+      "ru-RU": "Не нужно бояться мёртвых. Почтите их память и двигайтесь дальше.",
+      "es-ES": "No tenéis por qué temer a los muertos. Honradlos y seguid adelante.",
+      "pt-BR": "Não é preciso temer os mortos. Apenas preste suas homenagens e siga em frente.",
+      "de-DE": "Du musst die Toten nicht fürchten. Erweise ihnen die letzte Ehre und geh weiter."
+    }
+  ],
+  "marker_pull": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "銃はその辺に置いていってください。手のひらを向けるといつでもどこでも「引き寄せ」できます。",
+      "en-US": "You can leave the gun around there. You can \"pull\" it to you from anywhere by holding out your palm.",
+      "fr-FR": "Laissez l'arme ici. Vous pourrez l'« attirer » à vous où que vous soyez en dirigeant votre paume vers elle.",
+      "ko-KR": "총은 여기에 두세요. 손바닥을 향하면 어디서든 \"끌어당길\" 수 있습니다.",
+      "zh-CN": "把枪留在这里。手掌朝向它，就能从任何地方将其“拉”过来。",
+      "zh-TW": "把槍留在這裡。手掌朝向它，就能從任何地方將它「拉」過來。",
+      "ru-RU": "Оставьте оружие здесь. Направив на него ладонь, вы сможете «притянуть» его откуда угодно.",
+      "es-ES": "Dejad aquí el arma. Podéis «atraerla» desde cualquier lugar apuntándole con la palma.",
+      "pt-BR": "Deixe a arma por aí. Você pode “puxá-la” de qualquer lugar apontando a palma para ela.",
+      "de-DE": "Lass die Waffe hier. Du kannst sie von überall „heranziehen“, indem du deine Handfläche auf sie richtest."
+    }
+  ],
+  "durandal": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "ちょっと待ってください。そこに[偽|ぎ]-デュランダルを投下しています。",
+      "en-US": "Wait, I'm dropping Pseudo-Durandal there.",
+      "fr-FR": "Attendez, je largue Pseudo-Durandal à cet endroit.",
+      "ko-KR": "잠깐만요. 그곳에 가짜 뒤랑달을 투하하고 있습니다.",
+      "zh-CN": "等一下，我正在向那里投放伪杜兰达尔。",
+      "zh-TW": "等一下，我正在向那裡投放偽杜蘭達爾。",
+      "ru-RU": "Подождите, я сбрасываю туда Псевдо-Дюрандаль.",
+      "es-ES": "Esperad, estoy lanzando allí la Pseudo-Durandarte.",
+      "pt-BR": "Espere. Estou soltando a Pseudo-Durindana aí.",
+      "de-DE": "Warte. Ich lasse dort Pseudo-Durendal fallen."
+    }
+  ],
+  "durandal_2": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "あー、ちょっと遠かったですか？でも取れますよね。取りに行ってくれますか？",
+      "en-US": "Uh, did I drop it a little too far? But you can go get it, right?",
+      "fr-FR": "Ah, je l'ai peut-être largué un peu loin ? Mais vous pouvez aller le chercher, n'est-ce pas ?",
+      "ko-KR": "아, 조금 멀리 떨어뜨렸나요? 그래도 가져올 수 있죠?",
+      "zh-CN": "啊，是不是投得有点远？不过你能去拿到吧？",
+      "zh-TW": "啊，是不是投得有點遠？不過你能去拿到吧？",
+      "ru-RU": "Ой, я сбросила его далековато? Но вы ведь сможете его забрать?",
+      "es-ES": "Ah, ¿lo he dejado un poco lejos? Pero podéis ir a recogerlo, ¿verdad?",
+      "pt-BR": "Ah, caiu um pouco longe? Mas você consegue pegá-la, certo?",
+      "de-DE": "Oh, war das etwas weit? Du kannst sie doch holen, oder?"
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "足元には気をつけてください。落ちても問題ないはずですが、あなたの足は、その、細いので。",
+      "en-US": "Watch your step. Falling should not be a problem, but your legs are, well... thin.",
+      "fr-FR": "Regardez où vous mettez les pieds. Une chute ne devrait pas poser problème, mais vos jambes sont... plutôt fines.",
+      "ko-KR": "발밑을 조심하세요. 떨어져도 문제는 없겠지만, 당신의 다리는, 그게, 가늘어서요.",
+      "zh-CN": "注意脚下。即使掉下去应该也没事，不过你的腿，那个，有些细。",
+      "zh-TW": "注意腳下。即使掉下去應該也沒事，不過你的腿，那個，有些細。",
+      "ru-RU": "Смотрите под ноги. Падение не должно стать проблемой, но ваши ноги, ну... тонкие.",
+      "es-ES": "Mira dónde pisas. Caer no debería ser un problema, pero tus piernas son, bueno... delgadas.",
+      "pt-BR": "Cuidado onde pisa. Cair não deve ser problema, mas suas pernas são, bem... finas.",
+      "de-DE": "Achte auf deine Schritte. Ein Sturz dürfte kein Problem sein, aber deine Beine sind, nun ja ... dünn."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "銃が必要になったら遠慮なく使ってください。弾薬は無制限です。",
+      "en-US": "And feel free to use the gun when you need it. You have an unlimited amount of ammo.",
+      "fr-FR": "N'hésitez pas à utiliser l'arme si nécessaire. Les munitions sont illimitées.",
+      "ko-KR": "필요하면 부담 없이 총을 쓰세요. 탄약은 무제한입니다.",
+      "zh-CN": "需要时尽管使用枪，弹药无限。",
+      "zh-TW": "需要時儘管使用槍，彈藥無限。",
+      "ru-RU": "Если понадобится оружие, смело используйте его. Боеприпасы не ограничены.",
+      "es-ES": "Usad el arma cuando la necesitéis. La munición es ilimitada.",
+      "pt-BR": "Use a arma quando precisar. A munição é ilimitada.",
+      "de-DE": "Benutze die Waffe jederzeit. Du hast unbegrenzt Munition."
+    }
+  ],
+  "kendamal": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "あ、そっちの[剣|けん]じゃないです。",
+      "en-US": "Oh, it's not that sword.",
+      "fr-FR": "Ah, ce n'est pas cette épée-là.",
+      "ko-KR": "아, 그 검이 아닙니다.",
+      "zh-CN": "啊，不是那把剑。",
+      "zh-TW": "啊，不是那把劍。",
+      "ru-RU": "О, не тот меч.",
+      "es-ES": "Ah, no es esa espada.",
+      "pt-BR": "Ah, não é essa espada.",
+      "de-DE": "Oh, nicht dieses Schwert."
+    }
+  ],
+  "durandal_exp": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "[偽|ぎ]-デュランダルは人類が最初に発見した狂気で、フランスのローラン伝説に登場する聖剣そのものです。",
+      "en-US": "Pseudo-Durandal was the first of the Lunatics humanity discovered: the holy sword itself from the French legend of Roland.",
+      "fr-FR": "Pseudo-Durandal est la première folie découverte par l'humanité : c'est l'épée sacrée de la légende française de Roland.",
+      "ko-KR": "가짜 뒤랑달은 인류가 처음 발견한 광기이며, 프랑스 롤랑 전설에 나오는 바로 그 성검입니다.",
+      "zh-CN": "伪杜兰达尔是人类最早发现的疯狂，正是法国罗兰传说中的圣剑。",
+      "zh-TW": "偽杜蘭達爾是人類最早發現的瘋狂，正是法國羅蘭傳說中的聖劍。",
+      "ru-RU": "Псевдо-Дюрандаль — первое обнаруженное человечеством безумие. Это тот самый священный меч из французской легенды о Роланде.",
+      "es-ES": "Pseudo-Durandarte es la primera locura descubierta por la humanidad. Es la mismísima espada sagrada de la leyenda francesa de Roldán.",
+      "pt-BR": "A Pseudo-Durindana foi a primeira loucura descoberta pela humanidade. É a própria espada sagrada da lenda francesa de Rolando.",
+      "de-DE": "Pseudo-Durendal ist die erste Erscheinung des Wahnsinns, die die Menschheit entdeckte. Es ist das heilige Schwert aus der französischen Roland-Legende."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "いえ、正確にはその模型ですが、本物とまったく同じ特性を持っています。",
+      "en-US": "To be precise, it is a replica, but it has exactly the same properties as the real sword.",
+      "fr-FR": "Pour être précise, c'est une réplique, mais elle possède exactement les mêmes propriétés que l'originale.",
+      "ko-KR": "정확히는 모형이지만 성검과 완전히 같은 특성을 지녔습니다.",
+      "zh-CN": "严格来说它是模型，却具有与真正圣剑完全相同的特性。",
+      "zh-TW": "嚴格來說它是模型，卻具有與真正聖劍完全相同的特性。",
+      "ru-RU": "Точнее, это его копия, но она обладает всеми свойствами настоящего священного меча.",
+      "es-ES": "Técnicamente es una réplica, pero posee exactamente las mismas propiedades que la espada sagrada.",
+      "pt-BR": "Mais precisamente, é uma réplica, mas possui exatamente as mesmas propriedades da espada verdadeira.",
+      "de-DE": "Genau genommen ist es eine Nachbildung, besitzt aber exakt dieselben Eigenschaften wie das Original."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "つまり、絶対的に折れることがありません。",
+      "en-US": "That is, it is unbreakable.",
+      "fr-FR": "Autrement dit, elle est absolument incassable.",
+      "ko-KR": "즉, 절대로 부러지지 않습니다.",
+      "zh-CN": "也就是说，它绝不会折断。",
+      "zh-TW": "也就是說，它絕不會折斷。",
+      "ru-RU": "Иными словами, его невозможно сломать.",
+      "es-ES": "Es decir, es absolutamente irrompible.",
+      "pt-BR": "Ou seja, é absolutamente inquebrável.",
+      "de-DE": "Das heißt, es ist absolut unzerbrechlich."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "今まで多くの作戦に利用されてきましたが、今回も使用してもらいます。最後の活躍になるでしょう。",
+      "en-US": "It has served in many operations, and we will use it again this time. This will likely be its final mission.",
+      "fr-FR": "Nous l'avons employée dans de nombreuses opérations, et elle servira encore cette fois. Ce sera sans doute son dernier fait d'armes.",
+      "ko-KR": "많은 작전에 사용해 왔지만, 이번이 마지막 활약이 될 겁니다.",
+      "zh-CN": "它曾用于许多行动，这次也要借助它；这大概是最后一次大显身手。",
+      "zh-TW": "它曾用於許多行動，這次也要借助它；這大概是最後一次大顯身手。",
+      "ru-RU": "Мы использовали его во многих операциях, но эта, вероятно, станет для него последней.",
+      "es-ES": "La hemos usado en muchas operaciones, pero esta probablemente será su última intervención.",
+      "pt-BR": "Ela foi usada em muitas operações, e será usada outra vez. Esta deve ser sua última atuação.",
+      "de-DE": "Es wurde bei vielen Operationen eingesetzt und kommt auch diesmal zum Einsatz. Das wird wohl sein letzter Auftritt."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "ちなみにそれ、盾としても優秀ですよ。",
+      "en-US": "By the way, it can also be used as an excellent shield.",
+      "fr-FR": "Au fait, elle fait aussi un excellent bouclier.",
+      "ko-KR": "참고로 훌륭한 방패로도 쓸 수 있습니다.",
+      "zh-CN": "顺带一提，它也是一面出色的盾牌。",
+      "zh-TW": "順帶一提，它也是一面出色的盾牌。",
+      "ru-RU": "Кстати, он также служит отличным щитом.",
+      "es-ES": "Por cierto, también sirve como un escudo excelente.",
+      "pt-BR": "Aliás, também é um excelente escudo.",
+      "de-DE": "Übrigens eignet es sich auch hervorragend als Schild."
+    }
+  ],
+  "aquarium_feather": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "その羽根はルナトニウムです。物性が未定義の元素です。",
+      "en-US": "That feather is Lunatnium, an element whose physical properties have not yet been defined.",
+      "fr-FR": "Cette plume est du lunatnium, un élément dont les propriétés physiques restent indéfinies.",
+      "ko-KR": "그 깃털은 물성이 아직 정의되지 않은 원소 루나토늄입니다.",
+      "zh-CN": "那根羽毛是鈅，一种物理性质尚未定义的元素。",
+      "zh-TW": "那根羽毛是鈅，一種物理性質尚未定義的元素。",
+      "ru-RU": "Это перо — лунатний, элемент с ещё не определёнными физическими свойствами.",
+      "es-ES": "Esa pluma es lunatnio, un elemento cuyas propiedades físicas aún no están definidas.",
+      "pt-BR": "Essa pena é lunatônio, um elemento cujas propriedades físicas ainda não foram definidas.",
+      "de-DE": "Diese Feder besteht aus Lunatnium, einem Element mit noch undefinierten physikalischen Eigenschaften."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "通常、サテライトは我々に狂気を行使しません。あれは意志を持ちません。ですが...",
+      "en-US": "Normally, Satellite does not wield Lunatics against us. It has no will of its own. But...",
+      "fr-FR": "D'ordinaire, Satellite n'emploie pas la folie contre nous. Il est dépourvu de volonté. Mais...",
+      "ko-KR": "보통 위성은 우리에게 광기를 행사하지 않습니다. 그것에는 의지가 없습니다. 하지만...",
+      "zh-CN": "通常，卫星不会对我们施加疯狂。它没有意志。但是……",
+      "zh-TW": "通常，衛星不會對我們施加瘋狂。它沒有意志。但是……",
+      "ru-RU": "Обычно Спутник не применяет против нас безумие. У него нет собственной воли. Но…",
+      "es-ES": "Normalmente Satélite no usa la locura contra nosotros. Carece de voluntad propia. Pero…",
+      "pt-BR": "Normalmente, Satélite não usa a loucura contra nós, pois não possui vontade. Mas...",
+      "de-DE": "Normalerweise setzt Satellit keinen Wahnsinn gegen uns ein, weil es keinen Willen besitzt. Aber ..."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "今回は明確に我々を止めようとしています。夏を維持するために。",
+      "en-US": "This time, it is clearly trying to stop us. To preserve the Summer.",
+      "fr-FR": "Cette fois, Satellite essaie clairement de nous arrêter afin de préserver l'Été.",
+      "ko-KR": "이번에는 여름을 유지하기 위해 분명히 우리를 막으려 합니다.",
+      "zh-CN": "这一次它显然在试图阻止我们，以维持“夏日”。",
+      "zh-TW": "這一次它顯然在試圖阻止我們，以維持「夏日」。",
+      "ru-RU": "На этот раз Спутник явно пытается остановить нас, чтобы сохранить Лето.",
+      "es-ES": "Esta vez Satélite intenta detenernos claramente para mantener el Verano.",
+      "pt-BR": "Desta vez, está claramente tentando nos deter para manter o Verão.",
+      "de-DE": "Diesmal versucht Satellit eindeutig, uns aufzuhalten, um den Sommer zu erhalten."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "先に進みましょう。それに剣を押し当てて破壊してください。",
+      "en-US": "Let's move on. Please press the sword against the feather and destroy it.",
+      "fr-FR": "Continuons. Plaquez l'épée contre la plume pour la détruire.",
+      "ko-KR": "계속 가죠. 검을 깃털에 대어 파괴하세요.",
+      "zh-CN": "继续前进。把剑压在羽毛上将其破坏。",
+      "zh-TW": "繼續前進。把劍壓在羽毛上將它破壞。",
+      "ru-RU": "Идём дальше. Прижмите меч к перу и уничтожьте его.",
+      "es-ES": "Sigamos. Presionad la espada contra la pluma para destruirla.",
+      "pt-BR": "Vamos em frente. Pressione a espada contra a pena e destrua-a.",
+      "de-DE": "Gehen wir weiter. Drück das Schwert gegen die Feder und zerstöre sie."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "現場での未検証の接触は避けるべきですが、やむを得ません。許容範囲は超えないはずです。",
+      "en-US": "We should avoid untested contact in the field, but we have no choice. It should remain within acceptable limits.",
+      "fr-FR": "Nous devrions éviter tout contact non vérifié avec la folie sur le terrain, mais nous n'avons pas le choix. Cela ne devrait pas dépasser la limite tolérée.",
+      "ko-KR": "현장에서 확인되지 않은 광기와의 접촉은 피해야 하지만 이번에는 어쩔 수 없습니다. 허용 한도를 넘지는 않을 겁니다.",
+      "zh-CN": "现场本应避免接触未经确认的疯狂，但这次别无选择，应该不会超过容许范围。",
+      "zh-TW": "現場本應避免接觸未經確認的瘋狂，但這次別無選擇，應該不會超過容許範圍。",
+      "ru-RU": "В полевых условиях следует избегать контакта с неизученным безумием, но сейчас выбора нет. Допустимый предел не должен быть превышен.",
+      "es-ES": "Deberíamos evitar el contacto sobre el terreno con locuras sin verificar, pero ahora no hay alternativa. No debería superar el límite tolerable.",
+      "pt-BR": "Deveríamos evitar contato não verificado em campo, mas não há escolha. Não deve ultrapassar o limite aceitável.",
+      "de-DE": "Ungeprüften Kontakt im Feld sollten wir vermeiden, doch es geht nicht anders. Der Grenzwert dürfte nicht überschritten werden."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "この最奥に施設の発電系統があります。建物の構造は知っていますよね？",
+      "en-US": "There is a power generation facility at the end. You know the structure of this place, right?",
+      "fr-FR": "Le système de production d'énergie se trouve tout au fond. Vous connaissez la structure du bâtiment, n'est-ce pas ?",
+      "ko-KR": "가장 안쪽에 발전 시설이 있습니다. 이곳의 구조는 알고 있죠?",
+      "zh-CN": "最深处有发电设施。你知道这里的结构吧？",
+      "zh-TW": "最深處有發電設施。你知道這裡的結構吧？",
+      "ru-RU": "В глубине находится электростанция. Вы ведь знаете устройство этого места?",
+      "es-ES": "Al fondo hay una central eléctrica. Conocéis la estructura del lugar, ¿verdad?",
+      "pt-BR": "No fundo fica o sistema de geração de energia. Você conhece a estrutura deste lugar, certo?",
+      "de-DE": "Ganz hinten liegt das Stromerzeugungssystem. Du kennst den Aufbau dieses Orts, oder?"
+    }
+  ],
+  "aquarium_entrance_2": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "「夏」は私達人類が遭遇したうちで最大の狂気です。現状、私たちの持つどんな手段でも破壊できません。",
+      "en-US": "The Summer is the greatest of the Lunatics humanity has ever encountered. At present, none of our methods can destroy it.",
+      "fr-FR": "L'« Été » est la plus vaste folie jamais rencontrée par l'humanité. À ce jour, aucun de nos moyens ne peut la détruire.",
+      "ko-KR": "\"여름\"은 인류가 마주친 가장 거대한 광기입니다. 현재 어떤 수단으로도 파괴할 수 없습니다.",
+      "zh-CN": "“夏日”是人类遭遇过的最大疯狂，目前无法用任何手段摧毁。",
+      "zh-TW": "「夏日」是人類遭遇過的最大瘋狂，目前無法用任何手段摧毀。",
+      "ru-RU": "«Лето» — величайшее безумие, с которым столкнулось человечество. Сейчас уничтожить его невозможно никакими средствами.",
+      "es-ES": "El «Verano» es la mayor locura que ha encontrado la humanidad. Actualmente no puede destruirse por ningún medio.",
+      "pt-BR": "O Verão é a maior loucura que a humanidade já encontrou. Atualmente, não pode ser destruído por nenhum meio nosso.",
+      "de-DE": "Der Sommer ist die größte Erscheinung des Wahnsinns, der die Menschheit je begegnet ist. Derzeit können wir ihn mit keinem Mittel zerstören."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "「夏」は今も拡大を続けています。今後数週間で地球を覆い尽くすでしょう。",
+      "en-US": "The Summer is still expanding. It will cover the entire planet within the next few weeks.",
+      "fr-FR": "L'« Été » continue de s'étendre. Il recouvrira entièrement la Terre dans les prochaines semaines.",
+      "ko-KR": "\"여름\"은 지금도 계속 확장하고 있습니다. 앞으로 몇 주 안에 지구 전체를 뒤덮을 겁니다.",
+      "zh-CN": "“夏日”仍在不断扩张，几周内就会覆盖整个地球。",
+      "zh-TW": "「夏日」仍在不斷擴張，幾週內就會覆蓋整個地球。",
+      "ru-RU": "«Лето» продолжает расширяться и в ближайшие недели покроет всю планету.",
+      "es-ES": "El «Verano» sigue expandiéndose. En las próximas semanas cubrirá todo el planeta.",
+      "pt-BR": "O Verão ainda está se expandindo. Nas próximas semanas, cobrirá todo o planeta.",
+      "de-DE": "Der Sommer breitet sich weiter aus. In den nächsten Wochen wird er den ganzen Planeten bedecken."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "そうなれば...人類は、お[終|しま]いです。",
+      "en-US": "If that happens... humanity is finished.",
+      "fr-FR": "Si cela arrive... ce sera la fin de l'humanité.",
+      "ko-KR": "그렇게 되면... 인류는 끝입니다.",
+      "zh-CN": "如果那样……人类就完了。",
+      "zh-TW": "如果那樣……人類就完了。",
+      "ru-RU": "Если это случится… человечеству конец.",
+      "es-ES": "Si ocurre… será el fin de la humanidad.",
+      "pt-BR": "Se isso acontecer... será o fim da humanidade.",
+      "de-DE": "Dann ... ist es mit der Menschheit vorbei."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "大丈夫。あなたならそれを乗り越えて進んでいけます。あなたたちなら。",
+      "en-US": "It will be all right. You can overcome it and keep moving forward. All of you can.",
+      "fr-FR": "Tout ira bien. Vous pouvez surmonter cette épreuve et continuer. Vous tous le pouvez.",
+      "ko-KR": "괜찮아요. 당신이라면 그것을 넘어 앞으로 나아갈 수 있습니다. 당신들이라면요.",
+      "zh-CN": "没关系。你能跨越它继续前进。你们一定可以。",
+      "zh-TW": "沒關係。你能跨越它繼續前進。你們一定可以。",
+      "ru-RU": "Всё будет хорошо. Вы сможете преодолеть это и двигаться дальше. Все вы сможете.",
+      "es-ES": "No te preocupes. Puedes superarlo y seguir adelante. Todos vosotros podéis.",
+      "pt-BR": "Não se preocupe. Você consegue superar isso e seguir. Vocês conseguem.",
+      "de-DE": "Keine Sorge. Du kannst das überwinden und weitergehen. Ihr könnt es."
+    }
+  ],
+  "aquarium_wintercoat": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "NLIが不安定です。慎重に、一歩ずつ進んでください。サテライトが...何かしてくるかも。",
+      "en-US": "The NL-Index is unstable. Please proceed carefully, one step at a time. Satellite might do ... something.",
+      "fr-FR": "Le NLI est instable. Avancez prudemment, un pas après l'autre. Satellite pourrait... tenter quelque chose.",
+      "ko-KR": "NLI가 불안정합니다. 한 걸음씩 조심히 가세요. 위성이... 무언가 할지도 모릅니다.",
+      "zh-CN": "NLI不稳定。请一步一步谨慎前进。卫星也许会……做些什么。",
+      "zh-TW": "NLI不穩定。請一步一步謹慎前進。衛星也許會……做些什麼。",
+      "ru-RU": "NLI нестабилен. Двигайтесь осторожно, шаг за шагом. Спутник может… что-то предпринять.",
+      "es-ES": "El NLI es inestable. Avanzad con cuidado, paso a paso. Satélite podría… hacer algo.",
+      "pt-BR": "O NLI está instável. Avance com cuidado, um passo de cada vez. Satélite pode... fazer alguma coisa.",
+      "de-DE": "Der NLI ist instabil. Geh vorsichtig Schritt für Schritt weiter. Satellit könnte ... etwas tun."
+    }
+  ],
+  "aquarium_wintercoat_2": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "そこに立っている人たちが見えますか？",
+      "en-US": "Can you see people standing there?",
+      "fr-FR": "Voyez-vous les personnes qui se tiennent là-bas ?",
+      "ko-KR": "저기 서 있는 사람들이 보이나요?",
+      "zh-CN": "你能看到站在那里的人吗？",
+      "zh-TW": "你看得到站在那裡的人嗎？",
+      "ru-RU": "Видите людей, стоящих там?",
+      "es-ES": "¿Veis a la gente que está allí de pie?",
+      "pt-BR": "Vê as pessoas paradas ali?",
+      "de-DE": "Siehst du die Menschen dort?"
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "彼らはあなたに手を出せません。と、聞いています。刺激しないように進んでください。",
+      "en-US": "They cannot harm you, according to xer. Proceed without provoking them.",
+      "fr-FR": "Ils ne peuvent pas vous attaquer, selon iel. Avancez sans les provoquer.",
+      "ko-KR": "그이에 따르면 그들은 여러분을 공격할 수 없습니다. 자극하지 말고 지나가세요.",
+      "zh-CN": "据其所说，他们无法攻击你。请不要刺激他们，继续走。",
+      "zh-TW": "據其所說，他們無法攻擊你。請不要刺激他們，繼續走。",
+      "ru-RU": "Как оно говорит, они не могут напасть на вас. Не провоцируйте их и идите дальше.",
+      "es-ES": "Según elle, no pueden atacaros. No los provoquéis y seguid adelante.",
+      "pt-BR": "Segundo elu, elas não podem atacar você. Avance sem provocá-las.",
+      "de-DE": "Wie xier sagt, können sie dich nicht angreifen. Reize sie nicht und geh weiter."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "彼らは発狂していますが、死んではいません。ただ、サテライトの一部になっているだけです。",
+      "en-US": "They have been lunatized, but they are not dead. They have merely become part of Satellite.",
+      "fr-FR": "Ils ont été frappés de folie, mais ne sont pas morts. Ils font simplement partie de Satellite désormais.",
+      "ko-KR": "그들은 광기에 빠졌지만 죽지는 않았습니다. 단지 위성의 일부가 되었을 뿐입니다.",
+      "zh-CN": "他们已陷入疯狂，但没有死，只是成为了卫星的一部分。",
+      "zh-TW": "他們已陷入瘋狂，但沒有死，只是成為了衛星的一部分。",
+      "ru-RU": "Они обезумели, но не умерли. Они просто стали частью Спутника.",
+      "es-ES": "Han enloquecido, pero no están muertos. Simplemente se han convertido en parte de Satélite.",
+      "pt-BR": "Elas enlouqueceram, mas não estão mortas. Apenas se tornaram parte de Satélite.",
+      "de-DE": "Sie sind wahnsinnig geworden, aber nicht tot. Sie sind nur Teil von Satellit geworden."
+    }
+  ],
+  "aquarium_door": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "そこから先に進めそうですか？道がふさがっていますか？",
+      "en-US": "Can you move on from there? Is the corridor blocked?",
+      "fr-FR": "Pouvez-vous continuer par là ? Le passage est bloqué ?",
+      "ko-KR": "거기서 더 갈 수 있나요? 통로가 막혔나요?",
+      "zh-CN": "能从那里继续前进吗？通道被堵住了吗？",
+      "zh-TW": "能從那裡繼續前進嗎？通道被堵住了嗎？",
+      "ru-RU": "Можете пройти дальше? Коридор перекрыт?",
+      "es-ES": "¿Podéis avanzar desde ahí? ¿Está bloqueado el pasillo?",
+      "pt-BR": "Consegue seguir daí? O caminho está bloqueado?",
+      "de-DE": "Kannst du von dort weiter? Ist der Weg blockiert?"
+    }
+  ],
+  "aquarium_phone_call": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "OK、問題ありません。他のインスタンスのプレイヤーを待って、ここはひとまず待機を...",
+      "en-US": "Okay, no problem. Wait for the Players in other instances, and stay here for now ...",
+      "fr-FR": "D'accord, aucun problème. Attendez les Player des autres instances et, pour l'instant...",
+      "ko-KR": "좋아요, 문제없습니다. 다른 인스턴스의 플레이어들을 기다리며 여기서 잠시...",
+      "zh-CN": "好，没问题。请等待其他实例的玩家，暂时在这里……",
+      "zh-TW": "好，沒問題。請等待其他實例的玩家，暫時在這裡……",
+      "ru-RU": "Хорошо, ничего страшного. Подождите здесь Игроков из других инстансов…",
+      "es-ES": "Bien, no hay problema. Esperad aquí a los Players de otras instancias…",
+      "pt-BR": "Certo, sem problema. Espere pelos Players das outras instâncias e fique aqui por enquanto...",
+      "de-DE": "Okay, kein Problem. Warte auf die Players aus anderen Instanzen und bleib vorerst dort ..."
+    }
+  ],
+  "aquarium_phone_call_2": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "電話に出てください。はやく。",
+      "en-US": "Take the call. Hurry.",
+      "fr-FR": "Décrochez. Vite.",
+      "ko-KR": "전화를 받으세요. 어서요.",
+      "zh-CN": "接电话。快点。",
+      "zh-TW": "接電話。快點。",
+      "ru-RU": "Ответьте на звонок. Скорее.",
+      "es-ES": "Contestad al teléfono. Rápido.",
+      "pt-BR": "Atenda o telefone. Rápido.",
+      "de-DE": "Geh ans Telefon. Schnell."
+    }
+  ],
+  "aquarium_phone_call_end": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "なにか聞こえますか？",
+      "en-US": "Do you hear something?",
+      "fr-FR": "Vous entendez quelque chose ?",
+      "ko-KR": "무언가 들리나요?",
+      "zh-CN": "听到什么了吗？",
+      "zh-TW": "聽到什麼了嗎？",
+      "ru-RU": "Вы что-нибудь слышите?",
+      "es-ES": "¿Oís algo?",
+      "pt-BR": "Está ouvindo alguma coisa?",
+      "de-DE": "Hörst du etwas?"
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "ちょっと待ってください。あれは...",
+      "en-US": "Wait a minute, that is ...",
+      "fr-FR": "Attendez un instant. C'est...",
+      "ko-KR": "잠깐만요, 저건...",
+      "zh-CN": "等一下，那是……",
+      "zh-TW": "等一下，那是……",
+      "ru-RU": "Подождите, это же…",
+      "es-ES": "Esperad, eso es…",
+      "pt-BR": "Espere. Aquilo é...",
+      "de-DE": "Warte. Das ist ..."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "まさか、そんな...！",
+      "en-US": "No way ...!",
+      "fr-FR": "Impossible... !",
+      "ko-KR": "설마, 그럴 리가...!",
+      "zh-CN": "不可能，怎么会……！",
+      "zh-TW": "不可能，怎麼會……！",
+      "ru-RU": "Не может быть…!",
+      "es-ES": "No puede ser… ¡No!",
+      "pt-BR": "Não pode ser...!",
+      "de-DE": "Das kann nicht sein ...!"
+    }
+  ],
+  "aquarium_phone_call_nuclear": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "核攻撃です！",
+      "en-US": "It's a nuclear attack!",
+      "fr-FR": "C'est une attaque nucléaire !",
+      "ko-KR": "핵 공격입니다!",
+      "zh-CN": "是核攻击！",
+      "zh-TW": "是核攻擊！",
+      "ru-RU": "Это ядерный удар!",
+      "es-ES": "¡Es un ataque nuclear!",
+      "pt-BR": "É um ataque nuclear!",
+      "de-DE": "Ein Atomangriff!"
+    }
+  ],
+  "aquarium_run": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "作戦を変更します！大至急、最初の場所まで戻ってください！神社に！",
+      "en-US": "We are changing the plan! Go back to the first place, the shrine, immediately!",
+      "fr-FR": "Changement de plan ! Retournez immédiatement au point de départ, au sanctuaire !",
+      "ko-KR": "작전을 변경합니다! 즉시 처음 장소인 신사로 돌아가세요!",
+      "zh-CN": "改变行动计划！立刻返回最初的地点——神社！",
+      "zh-TW": "改變行動計畫！立刻返回最初的地點——神社！",
+      "ru-RU": "План меняется! Немедленно возвращайтесь к начальной точке — к святилищу!",
+      "es-ES": "¡Cambio de plan! ¡Volved inmediatamente al primer lugar, al santuario!",
+      "pt-BR": "Mudança de plano! Volte imediatamente ao primeiro local, ao santuário!",
+      "de-DE": "Planänderung! Kehre sofort zum ersten Ort zurück, zum Schrein!"
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "この飛翔ルートでは迎撃は不可能です！このインスタンスは数分後に壊滅します！",
+      "en-US": "We cannot intercept it on this flight path! This instance will be annihilated in a matter of minutes!",
+      "fr-FR": "Impossible d'intercepter le missile sur cette trajectoire ! Cette instance sera anéantie dans quelques minutes !",
+      "ko-KR": "이 비행 경로에서는 미사일을 요격할 수 없습니다! 이 인스턴스는 몇 분 안에 전멸합니다!",
+      "zh-CN": "按这条飞行路线无法拦截导弹！这个实例几分钟后就会毁灭！",
+      "zh-TW": "按這條飛行路線無法攔截飛彈！這個實例幾分鐘後就會毀滅！",
+      "ru-RU": "На этой траектории мы не сможем перехватить ракету! Через несколько минут этот инстанс будет уничтожен!",
+      "es-ES": "¡No podemos interceptar el misil en esta trayectoria! ¡Esta instancia será aniquilada en unos minutos!",
+      "pt-BR": "Não podemos interceptá-lo nessa rota! Esta instância será aniquilada em poucos minutos!",
+      "de-DE": "Auf dieser Flugbahn können wir sie nicht abfangen! Diese Instanz wird in wenigen Minuten vernichtet!"
+    }
+  ],
+  "aquarium_run_2": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "落ち着いて聞いてください。LCのいかなる狂気を用いても着弾を阻止できません。",
+      "en-US": "Listen carefully. None of LC's Lunatics can prevent the impact.",
+      "fr-FR": "Écoutez-moi calmement. Aucune des folies de LC ne peut empêcher l'impact.",
+      "ko-KR": "진정하고 들으세요. LC가 가진 어떤 광기로도 착탄을 막을 수 없습니다.",
+      "zh-CN": "冷静听我说。LC拥有的任何疯狂都无法阻止弹头命中。",
+      "zh-TW": "冷靜聽我說。LC擁有的任何瘋狂都無法阻止彈頭命中。",
+      "ru-RU": "Слушайте спокойно. Ни одно безумие LC не способно предотвратить попадание.",
+      "es-ES": "Escuchad con calma. Ninguna de las locuras de LC puede impedir el impacto.",
+      "pt-BR": "Escute com calma. Nenhuma das loucuras da LC pode impedir o impacto.",
+      "de-DE": "Hör ruhig zu. Keine der Wahnsinnserscheinungen von LC kann den Einschlag verhindern."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "おそらく、過去にサテライトが奪取した「失われた核」で、[実|・][在|・][し|・][ま|・][す|・]。",
+      "en-US": "It's probably one of the Lost Nukes that Satellite seized in the past, and it <i>DOES EXIST</i>.",
+      "fr-FR": "C'est probablement l'une des « armes nucléaires perdues » saisies autrefois par Satellite, et elle <i>EXISTE bel et bien</i>.",
+      "ko-KR": "아마 과거에 위성이 빼앗은 잃어버린 핵무기 중 하나일 것이며, <b>실제로 존재합니다</b>.",
+      "zh-CN": "那可能是卫星夺取的遗失核武器之一，而且它<b>确实存在</b>。",
+      "zh-TW": "那可能是衛星奪取的遺失核武器之一，而且它<b>確實存在</b>。",
+      "ru-RU": "Вероятно, это один из утраченных ядерных боеприпасов, захваченных Спутником, и он <i>ДЕЙСТВИТЕЛЬНО СУЩЕСТВУЕТ</i>.",
+      "es-ES": "Probablemente sea una de las armas nucleares perdidas que Satélite capturó, y <i>EXISTE DE VERDAD</i>.",
+      "pt-BR": "Provavelmente é uma das Armas Nucleares Perdidas tomadas por Satélite no passado, e ela <i>REALMENTE EXISTE</i>.",
+      "de-DE": "Es ist vermutlich eine der Verlorenen Atomwaffen, die Satellit früher an sich gerissen hat, und sie <i>EXISTIERT WIRKLICH</i>."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "システムに障害を与えてでも痛み分けに持ち込もうとしているのでしょう。",
+      "en-US": "It must be trying to force a mutual loss, even at the cost of damaging the system.",
+      "fr-FR": "Il cherche sans doute à nous infliger des pertes de part et d'autre, quitte à endommager le système.",
+      "ko-KR": "시스템이 손상되더라도 우리와 무승부로 끝내려는 것 같습니다.",
+      "zh-CN": "它大概想让双方两败俱伤，哪怕为此损坏系统。",
+      "zh-TW": "它大概想讓雙方兩敗俱傷，哪怕為此損壞系統。",
+      "ru-RU": "Видимо, Спутник хочет свести всё к ничьей, даже ценой повреждения системы.",
+      "es-ES": "Parece que intenta forzar un empate aunque el sistema resulte dañado.",
+      "pt-BR": "Deve estar tentando forçar um empate, mesmo danificando o sistema.",
+      "de-DE": "Satellit will wohl ein Unentschieden erzwingen, selbst wenn das System beschädigt wird."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "これは戦争です。失われる命のことではなく、救える命のことを考えてください。",
+      "en-US": "Remember, this is a war. Don't think of the lives that will be lost, but of the lives that can be saved.",
+      "fr-FR": "C'est une guerre. Ne pensez pas aux vies qui seront perdues, mais à celles que vous pouvez sauver.",
+      "ko-KR": "이건 전쟁입니다. 잃을 생명이 아니라 구할 수 있는 생명을 생각하세요.",
+      "zh-CN": "这是战争。不要想着将失去的生命，要想着还能拯救的生命。",
+      "zh-TW": "這是戰爭。不要想著將失去的生命，要想著還能拯救的生命。",
+      "ru-RU": "Это война. Думайте не о жизнях, которые будут потеряны, а о тех, которые можно спасти.",
+      "es-ES": "Esto es una guerra. No penséis en las vidas que se perderán, sino en las que se pueden salvar.",
+      "pt-BR": "Isto é uma guerra. Não pense nas vidas que serão perdidas, mas nas que podem ser salvas.",
+      "de-DE": "Das ist Krieg. Denk nicht an die Leben, die verloren gehen, sondern an jene, die gerettet werden können."
+    }
+  ],
+  "aquarium_run_override": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "その橋をオーバーライドします！そのまま直進してください！",
+      "en-US": "I'm applying an Override to that bridge! Keep going straight!",
+      "fr-FR": "J'applique un Override à ce pont ! Continuez tout droit !",
+      "ko-KR": "그 다리에 ‘초월’을 적용하겠습니다! 그대로 직진하세요!",
+      "zh-CN": "我会对那座桥施展“超越”！保持直行！",
+      "zh-TW": "我會對那座橋施展「超越」！保持直行！",
+      "ru-RU": "Я применяю Override к этому мосту! Продолжайте двигаться прямо!",
+      "es-ES": "¡Voy a aplicar un Override a ese puente! ¡Sigue recto!",
+      "pt-BR": "Vou aplicar um Override nessa ponte! Siga reto!",
+      "de-DE": "Ich wende einen Override auf diese Brücke an! Geh geradeaus weiter!"
+    }
+  ],
+  "aquarium_run_door": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "その扉もオーバーライドです！無視して進んでください。",
+      "en-US": "An Override for that door, too! Ignore it and keep going.",
+      "fr-FR": "Un Override pour cette porte aussi ! Ignorez-la et continuez d’avancer.",
+      "ko-KR": "그 문에도 ‘초월’을 적용하겠습니다! 무시하고 계속 나아가세요.",
+      "zh-CN": "那扇门也会被施展“超越”！无视它，继续前进。",
+      "zh-TW": "那扇門也會被施展「超越」！無視它，繼續前進。",
+      "ru-RU": "Для этой двери тоже Override! Не обращайте на неё внимания и идите дальше.",
+      "es-ES": "¡Un Override para esa puerta también! Ignórala y sigue adelante.",
+      "pt-BR": "Um Override nessa porta também! Ignore-a e continue em frente.",
+      "de-DE": "Auch für diese Tür ein Override! Ignoriere sie und geh weiter."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "そこには最初から何もありません！",
+      "en-US": "There's nothing there, to begin with!",
+      "fr-FR": "Il n'y a jamais rien eu à cet endroit !",
+      "ko-KR": "애초에 거기에는 아무것도 없습니다!",
+      "zh-CN": "那里从一开始就什么也没有！",
+      "zh-TW": "那裡從一開始就什麼也沒有！",
+      "ru-RU": "Там с самого начала ничего нет!",
+      "es-ES": "¡Ahí no había nada desde el principio!",
+      "pt-BR": "Não há nada ali desde o começo!",
+      "de-DE": "Dort war von Anfang an nichts!"
+    }
+  ],
+  "nuclear_display": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "パスコードは2141です。2141です！今すぐ覚えてください！",
+      "en-US": "The passcode is 2141. 2141! Memorize it now!",
+      "fr-FR": "Le code est 2141. 2141 ! Retenez-le immédiatement !",
+      "ko-KR": "비밀번호는 2141입니다. 2141! 지금 당장 외우세요!",
+      "zh-CN": "密码是2141。2141！现在立刻记住！",
+      "zh-TW": "密碼是2141。2141！現在立刻記住！",
+      "ru-RU": "Код доступа — 2141. 2141! Запомните его прямо сейчас!",
+      "es-ES": "El código es 2141. ¡2141! ¡Memorizadlo ahora mismo!",
+      "pt-BR": "O código é 2141. 2141! Memorize agora!",
+      "de-DE": "Der Passcode lautet 2141. 2141! Präg ihn dir sofort ein!"
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "ただちにこのインスタンスから退出して、コード2141に電話してください。あの夏の電話ボックスから。",
+      "en-US": "Please leave this instance immediately, and make a call to 2141, from the phone box in the Summer.",
+      "fr-FR": "Quittez cette instance immédiatement et appelez le 2141 depuis la cabine téléphonique de l'Été.",
+      "ko-KR": "즉시 이 인스턴스를 나가 여름의 전화박스에서 2141로 전화하세요.",
+      "zh-CN": "立即离开这个实例，从“夏日”的电话亭拨打2141。",
+      "zh-TW": "立即離開這個實例，從「夏日」的電話亭撥打2141。",
+      "ru-RU": "Немедленно покиньте этот инстанс и позвоните по номеру 2141 из телефонной будки в Лете.",
+      "es-ES": "Salid inmediatamente de esta instancia y llamad al 2141 desde la cabina telefónica del Verano.",
+      "pt-BR": "Saia desta instância imediatamente e ligue para 2141 na cabine telefônica do Verão.",
+      "de-DE": "Verlass diese Instanz sofort und ruf von der Telefonzelle im Sommer die Nummer 2141 an."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "FASが、もうひとりのオペレータAIが、対応してくれるはずです。",
+      "en-US": "FAS, the other operator AI, should answer.",
+      "fr-FR": "FAS, l'autre IA opératrice, devrait vous répondre.",
+      "ko-KR": "또 다른 오퍼레이터 AI인 FAS가 응답할 겁니다.",
+      "zh-CN": "另一位操作员AI——FAS应该会回应。",
+      "zh-TW": "另一位操作員AI——FAS應該會回應。",
+      "ru-RU": "FAS, другой ИИ-оператор, должна ответить.",
+      "es-ES": "FAS, la otra IA operadora, debería responder.",
+      "pt-BR": "FAS, a outra IA operadora, deverá responder.",
+      "de-DE": "FAS, die andere Operator-KI, sollte antworten."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "このインスタンスはここで終わりです。今すぐ退出してください。",
+      "en-US": "This instance is over. Please leave immediately.",
+      "fr-FR": "Cette instance s'arrête ici. Partez immédiatement.",
+      "ko-KR": "이 인스턴스는 여기서 끝입니다. 즉시 나가세요.",
+      "zh-CN": "这个实例到此结束。请立刻离开。",
+      "zh-TW": "這個實例到此結束。請立刻離開。",
+      "ru-RU": "Для этого инстанса всё кончено. Немедленно уходите.",
+      "es-ES": "Esta instancia ha terminado. Salid inmediatamente.",
+      "pt-BR": "Esta instância termina aqui. Saia imediatamente.",
+      "de-DE": "Diese Instanz endet hier. Verlass sie sofort."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "その、あなたにできることはもう何もありません。",
+      "en-US": "There is, um... nothing more you can do.",
+      "fr-FR": "Il n'y a plus rien que VOUS puissiez faire.",
+      "ko-KR": "이제 여러분이 할 수 있는 일은 아무것도 없습니다.",
+      "zh-CN": "你已经无能为力了。",
+      "zh-TW": "你已經無能為力了。",
+      "ru-RU": "Вы больше НИЧЕГО не можете сделать.",
+      "es-ES": "Ya no podéis hacer NADA.",
+      "pt-BR": "Bem... não há mais nada que você possa fazer.",
+      "de-DE": "Du kannst nichts mehr tun."
+    }
+  ],
+  "nuclear_death_1": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "あなたがここでできることはもうありません。このインスタンスから出てください。",
+      "en-US": "There is nothing you can do here. Please leave this instance.",
+      "fr-FR": "Vous ne pouvez plus rien faire ici. Quittez cette instance.",
+      "ko-KR": "여기서 할 수 있는 일은 없습니다. 이 인스턴스를 떠나세요.",
+      "zh-CN": "你在这里已经无事可做。请离开这个实例。",
+      "zh-TW": "你在這裡已經無事可做。請離開這個實例。",
+      "ru-RU": "Здесь вы больше ничего не можете сделать. Покиньте этот инстанс.",
+      "es-ES": "Ya no podéis hacer nada aquí. Salid de esta instancia.",
+      "pt-BR": "Não há mais nada que possa fazer aqui. Saia desta instância.",
+      "de-DE": "Du kannst hier nichts mehr tun. Verlass diese Instanz."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "世界を前に進めるために。",
+      "en-US": "To move the world forward.",
+      "fr-FR": "Pour faire avancer le monde.",
+      "ko-KR": "세계를 앞으로 나아가게 하기 위해서요.",
+      "zh-CN": "为了让世界继续前进。",
+      "zh-TW": "為了讓世界繼續前進。",
+      "ru-RU": "Чтобы мир продолжил двигаться вперёд.",
+      "es-ES": "Para que el mundo siga avanzando.",
+      "pt-BR": "Para fazer o mundo avançar.",
+      "de-DE": "Damit die Welt voranschreiten kann."
+    }
+  ],
+  "nuclear_death_2": [
+    {
+      "speaker": "lupi",
+      "ja-JP": "[M8PR|メープル]。ここまで付き合わせてしまって、ごめんなさい。",
+      "en-US": "M8PR. I'm sorry for dragging you this far into this.",
+      "fr-FR": "M8PR. Pardon de vous avoir entraîné jusque-là.",
+      "ko-KR": "<b>M8PR</b>. 여기까지 함께하게 해서 미안합니다.",
+      "zh-CN": "<b>M8PR</b>。对不起，让你陪我走到了这里。",
+      "zh-TW": "<b>M8PR</b>。對不起，讓你陪我走到了這裡。",
+      "ru-RU": "M8PR. Простите, что втянула вас во всё это и заставила пройти так далеко.",
+      "es-ES": "M8PR. Siento haberte arrastrado conmigo hasta aquí.",
+      "pt-BR": "M8PR. Desculpe por fazer você me acompanhar até aqui.",
+      "de-DE": "M8PR. Es tut mir leid, dass ich dich bis hierher mit hineingezogen habe."
+    },
+    {
+      "speaker": "lupi",
+      "ja-JP": "せめて安らかに眠ってください。",
+      "en-US": "Please rest in peace.",
+      "fr-FR": "Puissiez-vous au moins reposer en paix.",
+      "ko-KR": "부디 편히 쉬세요.",
+      "zh-CN": "至少请安息吧。",
+      "zh-TW": "至少請安息吧。",
+      "ru-RU": "Покойтесь с миром.",
+      "es-ES": "Descansa en paz.",
+      "pt-BR": "Ao menos, descanse em paz.",
+      "de-DE": "Ruhe wenigstens in Frieden."
+    }
+  ]
+}

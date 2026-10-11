@@ -1,0 +1,50 @@
+{
+  "language": {
+    "ja-JP": "日本語",
+    "en-US": "English",
+    "ko-KR": "한국어 (자동)",
+    "zh-CN": "简体中文（自动）",
+    "zh-TW": "繁體中文（自動）",
+    "ru-RU": "Русский (Авто)",
+    "es-ES": "Español (Autom.)",
+    "pt-BR": "Português (Autom.)",
+    "de-DE": "Deutsch (Auto)",
+    "fr-FR": "Français (Auto)"
+  },
+  "language_en": {
+    "ja-JP": "Japanese",
+    "en-US": "English",
+    "ko-KR": "Korean (Auto)",
+    "zh-CN": "Simplified Chinese（Auto）",
+    "zh-TW": "Traditional Chinese（Auto）",
+    "ru-RU": "Russian (Auto)",
+    "es-ES": "Spanish (Auto)",
+    "pt-BR": "Portuguese (Auto)",
+    "de-DE": "German (Auto)",
+    "fr-FR": "French (Auto)"
+  },
+  "respawning": {
+    "ja-JP": "リスポーンします...",
+    "en-US": "Respawning...",
+    "ko-KR": "리스폰합니다...",
+    "zh-CN": "即将重生...",
+    "zh-TW": "即將重生...",
+    "ru-RU": "Возрождение...",
+    "es-ES": "Reapareciendo...",
+    "pt-BR": "Reaparecendo...",
+    "de-DE": "Respawn erfolgt...",
+    "fr-FR": "Réapparition en cours..."
+  },
+  "caption_format": {
+    "ja-JP": "{0}：{1}",
+    "en-US": "{0}: {1}",
+    "ko-KR": "{0}: {1}",
+    "zh-CN": "{0}：{1}",
+    "zh-TW": "{0}：{1}",
+    "ru-RU": "{0}: {1}",
+    "es-ES": "{0}: {1}",
+    "pt-BR": "{0}: {1}",
+    "de-DE": "{0}: {1}",
+    "fr-FR": "{0}: {1}"
+  }
+}

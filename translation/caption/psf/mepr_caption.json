@@ -1,0 +1,26 @@
+{
+  "protocol_begin": {
+    "ja-JP": "プロトコルを開始します。",
+    "en-US": "Initiating the protocol.",
+    "ko-KR": "프로토콜을 시작합니다.",
+    "zh-CN": "正在启动协议。",
+    "zh-TW": "正在啟動協定。",
+    "ru-RU": "Инициирую протокол.",
+    "es-ES": "Iniciando el protocolo.",
+    "pt-BR": "Iniciando o protocolo.",
+    "de-DE": "Protokoll wird eingeleitet.",
+    "fr-FR": "Initialisation du protocole."
+  },
+  "protocol_end": {
+    "ja-JP": "プロトコルを終了します。",
+    "en-US": "Terminating the protocol.",
+    "ko-KR": "프로토콜을 종료합니다.",
+    "zh-CN": "正在终止协议。",
+    "zh-TW": "正在終止協定。",
+    "ru-RU": "Завершаю протокол.",
+    "es-ES": "Finalizando el protocolo.",
+    "pt-BR": "Encerrando o protocolo.",
+    "de-DE": "Protokoll wird beendet.",
+    "fr-FR": "Fin du protocole."
+  }
+}
